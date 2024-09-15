@@ -137,6 +137,7 @@ export async function POST(req: NextRequest) {
         console.log(`Processing language: ${langCode}`, JSON.stringify(langItem, null, 2));
 
         const webNavData = {
+          // name: name,
           name: `${name}_${langCode}`,
           title: langItem.title || title,
           url,

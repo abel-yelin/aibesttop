@@ -180,6 +180,11 @@
     },
     "submit": {
       "title": "提交您的AI工具並獲取流量 | Aibesttop目錄"
+    },
+    "category": {
+      "title": "分類：{category}",
+      "description": "瀏覽 {category} 分類中的所有項目",
+      "keywords": "{category}, 分類, 瀏覽"
     }
   }
 }

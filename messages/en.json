@@ -184,6 +184,11 @@
     "login": {
       "title": "Login",
       "description": "Log in to your account"
+    },
+    "category": {
+      "title": "Category: {category}",
+      "description": "Browse all items in the {category} category",
+      "keywords": "{category}, category, browse"
     }
   }
 }
