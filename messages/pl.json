@@ -1,0 +1,186 @@
+{
+    "Common": {
+      "loading": "Ładowanie..."
+    },
+    "Navigation": {
+      "title": "Katalog narzędzi Aibesttop",
+      "discover": "Odkryj AI",
+      "submit": "Prześlij",
+      "newtools": "Nowe narzędzia",
+      "startup": "Startup",
+      "menu": "Menu"
+    },
+    "Footer": {
+      "title": "Katalog narzędzi Aibesttop",
+      "subTitle": "Odkryj najlepsze narzędzia AI 2024 w Katalogu narzędzi Aibesttop!",
+      "support": "Wsparcie",
+      "tap4": "Aibesttop",
+      "tattoo": "Generator tatuaży AI",
+      "privacy": "Polityka prywatności",
+      "termsConditions": "Warunki korzystania",
+      "contactUs": "Kontakt"
+    },
+    "Faq": {
+      "title": "Często zadawane pytania",
+      "1": {
+        "question": "Czym jest Katalog narzędzi Aibesttop?",
+        "answer": "Katalog narzędzi Aibesttop - tap4.ai to katalog narzędzi AI, który pomaga znaleźć ulubione narzędzia AI. Znajdziesz tu narzędzia do pisania AI, marketingu AI, parafrazowania AI, SEO AI, nauki AI, generatory AI, narzędzia badawcze AI, narzędzia artystyczne AI, muzyczne AI, wideo AI, kodowania AI, narzędzia do zdjęć AI i wiele więcej."
+      },
+      "2": {
+        "question": "Jak znaleźć swoje narzędzia AI w Katalogu narzędzi Aibesttop?",
+        "answer-1": "1. Otwórz tap4.ai.",
+        "answer-2": "2. Przeglądaj narzędzia AI w Katalogu narzędzi Aibesttop.",
+        "answer-3": "3. Kliknij na narzędzie AI, którego potrzebujesz, aby uzyskać szczegóły i odwiedzić jego stronę."
+      },
+      "3": {
+        "question": "Jakie są główne funkcje Katalogu narzędzi Aibesttop?",
+        "answer-1": "1. Darmowy Katalog Narzędzi AI: Możesz za darmo znaleźć tu swoje ulubione Narzędzia AI.",
+        "answer-2": "2. Lista startupów: Darmowa lista startupów dla twórców narzędzi AI."
+      },
+      "4": {
+        "question": "Czy przesyłanie narzędzi AI do Katalogu narzędzi Aibesttop jest darmowe?",
+        "answer": "Tak, obecnie jest to darmowe. Ale powinieneś udostępnić link zwrotny do Katalogu narzędzi Aibesttop!"
+      },
+      "5": {
+        "question": "Jakie kategorie Narzędzi AI wspiera Katalog narzędzi Aibesttop?",
+        "answer": "W przyszłości będziemy wspierać wszystkie rodzaje Narzędzi AI. Proszę poczekać kilka dni."
+      },
+      "6": {
+        "question": "Jaka jest częstotliwość aktualizacji Narzędzi AI w Katalogu Aibesttop?",
+        "answer": "Lista Narzędzi AI będzie aktualizowana codziennie."
+      },
+      "7": {
+        "question": "Czy wspieracie tu GPT-4o lub Sora AI?",
+        "answer": "Możesz znaleźć tu narzędzia GPT-4o lub Sora AI. Tutaj znajdziesz wprowadzenie do GPT-4o i wideo Sora, a także możesz odwiedzić strony internetowe tych narzędzi."
+      },
+      "8": {
+        "question": "Rozwiązywanie problemów",
+        "answer": "Jeśli treść się nie pojawia, spróbuj innej przeglądarki, wyczyść pamięć podręczną. Jeśli problemy nadal występują, skontaktuj się z nami pod adresem contact@6677.ai."
+      },
+      "9": {
+        "question": "Jak generowana jest treść Katalogu Aibesttop?",
+        "answer": "Treść opisów narzędzi AI jest generowana przez GPT-4o od OpenAI."
+      },
+      "10": {
+        "question": "Jakie są prawa do korzystania z narzędzi AI?",
+        "answer": "Katalog narzędzi Aibesttop to tylko Katalog AI dla narzędzi AI. Prawa do korzystania z narzędzi AI są oparte na stronach internetowych tych narzędzi."
+      },
+      "11": {
+        "question": "Czy interfejs webowy Katalogu Aibesttop jest open source?",
+        "answer": "Tak, udostępnimy kod źródłowy interfejsu webowego Katalogu Aibesttop na GitHubie (https://github.com/6677-ai/tap4-ai-webui). Prosimy o gwiazdkę!"
+      }
+    },
+    "FooterNavigation": {
+      "privacyPolicy": {
+        "1-h1": "Polityka prywatności dla Katalogu narzędzi Aibesttop",
+        "1-p": "Ta strona służy do informowania odwiedzających o moich zasadach dotyczących gromadzenia, wykorzystywania i ujawniania Danych Osobowych, jeśli ktoś zdecyduje się korzystać z mojej Usługi. Jeśli zdecydujesz się korzystać z mojej Usługi, zgadzasz się na gromadzenie i wykorzystywanie informacji w związku z tą polityką. Dane Osobowe, które zbieram, są wykorzystywane do świadczenia i ulepszania Usługi. Nie będę wykorzystywać ani udostępniać Twoich informacji nikomu, z wyjątkiem sytuacji opisanych w niniejszej Polityce Prywatności. Terminy użyte w niniejszej Polityce Prywatności mają takie same znaczenia jak w naszych Warunkach korzystania z usługi.",
+        "2-h2": "1. Gromadzenie i wykorzystywanie informacji",
+        "2-p": "Dla lepszego doświadczenia podczas korzystania z naszej Usługi, mogę wymagać od Ciebie podania pewnych danych osobowych. Informacje, o które proszę, będą przechowywane na Twoim urządzeniu i nie są w żaden sposób przeze mnie gromadzone. Aplikacja korzysta z usług stron trzecich, które mogą gromadzić informacje używane do Twojej identyfikacji.",
+        "3-h2": "2. Dane dziennika",
+        "3-p": "Chcę poinformować, że za każdym razem, gdy korzystasz z mojej Usługi, w przypadku błędu w aplikacji zbieram dane i informacje (za pośrednictwem produktów stron trzecich) na Twoim telefonie, zwane Danymi dziennika. Te Dane dziennika mogą zawierać takie informacje jak adres protokołu internetowego ('IP') Twojego urządzenia, nazwa urządzenia, wersja systemu operacyjnego, konfiguracja aplikacji podczas korzystania z mojej Usługi, czas i data korzystania z Usługi oraz inne statystyki.",
+        "4-h2": "3. Pliki cookie",
+        "4-p": "Pliki cookie to pliki z małą ilością danych, które są powszechnie używane jako anonimowe unikalne identyfikatory. Są one wysyłane do Twojej przeglądarki ze stron internetowych, które odwiedzasz, i są przechowywane w pamięci wewnętrznej Twojego urządzenia. Ta Usługa nie używa tych 'plików cookie' w sposób jawny. Jednak aplikacja może korzystać z kodu i bibliotek stron trzecich, które używają 'plików cookie' do zbierania informacji i ulepszania swoich usług. Masz możliwość zaakceptowania lub odrzucenia tych plików cookie i wiedzieć, kiedy plik cookie jest wysyłany na Twoje urządzenie. Jeśli zdecydujesz się odrzucić nasze pliki cookie, możesz nie być w stanie korzystać z niektórych części tej Usługi.",
+        "5-h2": "4. Dostawcy usług",
+        "5-p-1": "Mogę zatrudniać firmy i osoby trzecie z następujących powodów:",
+        "5-li-1": "Aby ułatwić naszą Usługę;",
+        "5-li-2": "Aby świadczyć Usługę w naszym imieniu;",
+        "5-li-3": "Aby wykonywać usługi związane z Usługą; lub",
+        "5-li-4": "Aby pomóc nam w analizie sposobu korzystania z naszej Usługi.",
+        "5-p-2": "Chcę poinformować użytkowników tej Usługi, że te strony trzecie mają dostęp do ich Danych Osobowych. Powodem jest wykonywanie zadań przydzielonych im w naszym imieniu. Jednak są one zobowiązane do nieujawniania ani niewykorzystywania informacji do żadnych innych celów.",
+        "6-h2": "5. Bezpieczeństwo",
+        "6-p": "Cenię Twoje zaufanie w dostarczaniu nam Twoich Danych Osobowych, dlatego staramy się używać komercyjnie akceptowalnych środków ich ochrony. Pamiętaj jednak, że żadna metoda transmisji przez internet lub metoda elektronicznego przechowywania nie jest w 100% bezpieczna i niezawodna, i nie mogę zagwarantować jej absolutnego bezpieczeństwa.",
+        "7-h2": "6. Linki do innych stron",
+        "7-p": "Ta Usługa może zawierać linki do innych stron. Jeśli klikniesz link strony trzeciej, zostaniesz przekierowany na tę stronę. Pamiętaj, że te zewnętrzne strony nie są obsługiwane przeze mnie. Dlatego zdecydowanie zalecam zapoznanie się z Polityką prywatności tych stron. Nie mam kontroli i nie ponoszę żadnej odpowiedzialności za zawartość, polityki prywatności lub praktyki jakichkolwiek stron lub usług stron trzecich.",
+        "8-h2": "7. Zmiany w tej Polityce prywatności",
+        "8-p": "Mogę od czasu do czasu aktualizować naszą Politykę prywatności. Dlatego zaleca się okresowe sprawdzanie tej strony pod kątem wszelkich zmian. Powiadomię Cię o wszelkich zmianach, publikując nową Politykę prywatności na tej stronie. Zmiany te wchodzą w życie natychmiast po opublikowaniu ich na tej stronie."
+      },
+      "termsConditions": {
+        "1-h1": "Warunki korzystania z Katalogu Aibesttop",
+        "1-p": "Witamy w Katalogu Aibesttop! Nasza strona internetowa, znajdująca się pod adresem https://tap4.ai ('Strona internetowa'), jest poświęcona zapewnieniu możliwości tworzenia niestandardowych obrazów. Uzyskując dostęp lub korzystając z naszej Strony internetowej, zgadzasz się przestrzegać niniejszych Warunków korzystania z usługi ('Warunki'). Jeśli nie zgadzasz się z jakąkolwiek częścią warunków, zabrania się korzystania ze Strony internetowej.",
+        "2-h2": "1. Licencja na użytkowanie",
+        "2-p": "Otrzymujesz ograniczoną, niewyłączną, nieprzenoszalną licencję na korzystanie ze Strony internetowej i jej usług do celów osobistych, niekomercyjnych. Licencja ta nie obejmuje żadnych praw do kopiowania, modyfikowania lub rozpowszechniania treści Strony internetowej ani wykorzystywania jej do celów komercyjnych bez naszej uprzedniej pisemnej zgody.",
+        "3-h2": "2. Własność",
+        "3-p": "Własność obrazów wygenerowanych z tekstu na Stronie internetowej należy do osoby, która stworzyła obraz. Tap4.ai nie rości sobie praw własności do obrazów stworzonych przez użytkowników.",
+        "4-h2": "3. Gromadzenie danych użytkownika",
+        "4-p": "Gromadzimy dane osobowe (imię i nazwisko, adres e-mail i informacje o płatnościach) oraz dane nieosobowe (pliki cookie stron internetowych) w celu ulepszenia naszych usług. Wykorzystanie tych danych podlega naszej Polityce prywatności, którą można znaleźć w",
+        "terms-of-service": "warunkach korzystania z usługi",
+        "5-h2": "4. Prawo właściwe",
+        "5-p": "Niniejsze Warunki podlegają prawu Stanów Zjednoczonych Ameryki i będą interpretowane zgodnie z nim, bez względu na jego przepisy dotyczące konfliktu praw.",
+        "6-h2": "5. Zmiany w Warunkach",
+        "6-p": "Katalog Aibesttop zastrzega sobie prawo do modyfikacji lub zastąpienia niniejszych Warunków w dowolnym momencie, według własnego uznania. Powiadomimy użytkowników o wszelkich zmianach za pośrednictwem poczty elektronicznej. Dalsze korzystanie ze Strony internetowej po wprowadzeniu zmian w niniejszych Warunkach będzie oznaczać akceptację tych zmian.",
+        "7-h2": "6. Informacje kontaktowe",
+        "7-p": "Jeśli masz jakiekolwiek pytania dotyczące niniejszych Warunków, skontaktuj się z nami pod adresem: contact@6677.ai.",
+        "last-p": "Korzystając z Katalogu Aibesttop, wyrażasz zgodę na niniejsze Warunki korzystania z usługi."
+      }
+    },
+    "NotFound": {
+      "title": "404 Nie znaleziono",
+      "goHome": "Wróć do strony głównej"
+    },
+    "Home": {
+      "title": "Odkryj najlepsze narzędzia AI 2024",
+      "subTitle": "Znajdź swoje ulubione narzędzia AI w Katalogu Narzędzi Aibesttop. Lista narzędzi AI jest codziennie aktualizowana przez GPT-4o. Możesz bezpłatnie dodać swoje narzędzie, aby poprawić SEO.",
+      "ai-navigate": "Lista narzędzi AI",
+      "exploreMore": "Odkryj więcej narzędzi AI",
+      "checkDetail": "Zobacz szczegóły",
+      "search": "Szukaj",
+      "result": "Wyniki wyszukiwania",
+      "empty": "Brak danych"
+    },
+    "Category": {
+      "home": "Strona główna",
+      "empty": "Brak danych"
+    },
+    "Submit": {
+      "title": "Dodaj swoje narzędzie AI",
+      "subTitle": "Dodaj swoje narzędzie AI i zyskaj ruch z Katalogu Aibesttop",
+      "website": "Nazwa strony",
+      "url": "URL strony",
+      "submit": "Wyślij",
+      "add": "Dodaj",
+      "text": "do strony głównej swojej witryny, a następnie możesz bezpłatnie dodać swoją stronę!",
+      "networkError": "Błąd sieci",
+      "success": "Sukces"
+    },
+    "Startup": {
+      "title": "Rozpocznij swoją przygodę ze startupem",
+      "subTitle": "Ostateczna lista stron internetowych do uruchomienia i promocji Twojego startupu online. Aby dodać do listy lub pomóc w dodaniu Twojego produktu do darmowej listy, napisz do nas: contact@tap4.ai.",
+      "updateTime": "Aktualizowane codziennie. Ostatnia aktualizacja:",
+      "table": {
+        "da": "DA",
+        "website": "Strona",
+        "tags": "Tagi",
+        "price": "Cena",
+        "submission": "Zgłoszenie"
+      },
+      "detail": {
+        "visitWebsite": "Odwiedź stronę",
+        "introduction": "Wprowadzenie"
+      }
+    },
+    "Explore": {
+      "title": "Odkryj najlepsze narzędzia AI 2024",
+      "subTitle": "Znajdź swoje ulubione narzędzia AI w Katalogu Narzędzi Aibesttop. Lista narzędzi AI jest codziennie aktualizowana przez GPT-4o."
+    },
+    "Metadata": {
+      "home": {
+        "title": "Znajdź najlepsze narzędzia AI | Katalog Narzędzi Aibesttop",
+        "description": "Katalog Aibesttop to narzędzie oferujące darmowy Katalog Narzędzi AI. Znajdź swoje ulubione narzędzia AI z Katalogiem Aibesttop, który ma na celu zebranie wszystkich narzędzi AI i dostarczenie najlepszych rozwiązań dla użytkowników.",
+        "keywords": "Katalog Aibesttop"
+      },
+      "ai": {
+        "titleSubfix": "Katalog Aibesttop"
+      },
+      "explore": {
+        "title": "Odkryj najlepsze narzędzia AI 2024 | Katalog Narzędzi Aibesttop",
+        "titlePrefix": "Odkryj Katalog Aibesttop",
+        "titleSuffix": "Katalog Aibesttop",
+        "description": "Katalog Aibesttop to narzędzie oferujące darmowy Katalog Narzędzi AI. Znajdź swoje ulubione narzędzia AI z Katalogiem Aibesttop, który ma na celu zebranie wszystkich narzędzi AI i dostarczenie najlepszych rozwiązań dla użytkowników.",
+        "keywords": "Katalog Aibesttop"
+      },
+      "submit": {
+        "title": "Dodaj swoje narzędzie AI i zyskaj ruch | Katalog Aibesttop"
+      }
+    }
+  }
+  

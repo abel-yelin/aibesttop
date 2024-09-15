@@ -1,0 +1,185 @@
+{
+    "Common": {
+      "loading": "Đang tải..."
+    },
+    "Navigation": {
+      "title": "Thư mục công cụ Aibesttop",
+      "discover": "Khám phá AI",
+      "submit": "Gửi",
+      "newtools": "Công cụ mới",
+      "startup": "Khởi nghiệp",
+      "menu": "Menu"
+    },
+    "Footer": {
+      "title": "Thư mục công cụ Aibesttop",
+      "subTitle": "Khám phá các công cụ AI tốt nhất năm 2024 với Thư mục công cụ Aibesttop!",
+      "support": "Hỗ trợ",
+      "tap4": "Aibesttop",
+      "tattoo": "Trình tạo hình xăm AI",
+      "privacy": "Chính sách bảo mật",
+      "termsConditions": "Điều khoản & Điều kiện",
+      "contactUs": "Liên hệ chúng tôi"
+    },
+    "Faq": {
+      "title": "Câu hỏi thường gặp",
+      "1": {
+        "question": "Thư mục công cụ Aibesttop là gì?",
+        "answer": "Thư mục công cụ Aibesttop - tap4.ai đang xây dựng một thư mục công cụ AI giúp bạn tìm được các công cụ AI yêu thích. Bạn có thể tìm thấy các công cụ viết AI, công cụ tiếp thị AI, công cụ viết lại AI, công cụ SEO AI, công cụ học tập AI, công cụ tạo AI, công cụ nghiên cứu AI, công cụ nghệ thuật AI, công cụ âm nhạc AI, công cụ video AI, công cụ lập trình AI, công cụ ảnh AI và nhiều hơn nữa tại đây."
+      },
+      "2": {
+        "question": "Làm thế nào để tìm công cụ AI của bạn trong thư mục công cụ Aibesttop?",
+        "answer-1": "1. Mở tap4.ai.",
+        "answer-2": "2. Khám phá các công cụ AI trong thư mục công cụ Aibesttop.",
+        "answer-3": "3. Nhấp vào công cụ AI bạn cần để xem chi tiết và truy cập nó."
+      },
+      "3": {
+        "question": "Các tính năng chính của Thư mục công cụ Aibesttop là gì?",
+        "answer-1": "1. Thư mục công cụ AI miễn phí: Miễn phí tìm kiếm các công cụ AI yêu thích của bạn tại đây.",
+        "answer-2": "2. Danh sách khởi nghiệp: Danh sách khởi nghiệp miễn phí cho các nhà phát triển công cụ AI."
+      },
+      "4": {
+        "question": "Có miễn phí để gửi công cụ AI vào Thư mục công cụ Aibesttop không?",
+        "answer": "Có, hiện tại là miễn phí. Nhưng bạn nên chia sẻ liên kết ngược cho Thư mục công cụ Aibesttop!"
+      },
+      "5": {
+        "question": "Danh sách các danh mục công cụ AI mà Thư mục công cụ Aibesttop hỗ trợ là gì?",
+        "answer": "Chúng tôi sẽ hỗ trợ tất cả các loại công cụ AI sau này. Vui lòng đợi trong vài ngày."
+      },
+      "6": {
+        "question": "Tần suất cập nhật công cụ AI trong Thư mục Aibesttop là bao nhiêu?",
+        "answer": "Danh sách công cụ AI sẽ được cập nhật hàng ngày."
+      },
+      "7": {
+        "question": "Có hỗ trợ GPT-4o hoặc Sora AI ở đây không?",
+        "answer": "Bạn có thể tìm thấy công cụ GPT-4o hoặc Sora AI ở đây. Đây là video giới thiệu về GPT-4o và Sora, và bạn có thể truy cập trang web của các công cụ."
+      },
+      "8": {
+        "question": "Xử lý sự cố",
+        "answer": "Nếu nội dung không hiển thị, hãy thử sử dụng trình duyệt khác, xóa bộ nhớ cache. Nếu vấn đề vẫn tiếp diễn, hãy liên hệ với chúng tôi tại contact@6677.ai."
+      },
+      "9": {
+        "question": "Nội dung của Thư mục Aibesttop được tạo ra như thế nào?",
+        "answer": "Nội dung mô tả các công cụ AI được tạo ra bởi GPT-4o từ OpenAI."
+      },
+      "10": {
+        "question": "Quyền sử dụng các công cụ AI là gì?",
+        "answer": "Thư mục công cụ Aibesttop chỉ là thư mục cho các công cụ AI. Quyền sử dụng các công cụ AI dựa trên trang web của công cụ AI."
+      },
+      "11": {
+        "question": "Giao diện web của Thư mục Aibesttop có mã nguồn mở không?",
+        "answer": "Có, chúng tôi sẽ mở mã nguồn giao diện web của Thư mục Aibesttop trên github (https://github.com/6677-ai/tap4-ai-webui). Hãy gắn sao cho chúng tôi."
+      }
+    },
+    "FooterNavigation": {
+      "privacyPolicy": {
+        "1-h1": "Chính sách bảo mật cho Thư mục công cụ Aibesttop",
+        "1-p": "Trang này được sử dụng để thông báo cho khách truy cập về các chính sách của tôi với việc thu thập, sử dụng và tiết lộ Thông tin cá nhân nếu ai đó quyết định sử dụng n nếu ai đó quyết định sử dụng Dịch vụ của tôi. Nếu bạn chọn sử dụng Dịch vụ của tôi, thì bạn đồng ý với việc thu thập và sử dụng thông tin liên quan đến chính sách này. Thông tin Cá nhân mà tôi thu thập được sử dụng để cung cấp và cải thiện Dịch vụ. Tôi sẽ không sử dụng hoặc chia sẻ thông tin của bạn với bất kỳ ai ngoại trừ như được mô tả trong Chính sách Bảo mật này. Các thuật ngữ được sử dụng trong Chính sách Bảo mật này có cùng ý nghĩa như trong Điều khoản và Điều kiện của chúng tôi.",
+        "2-h2": "1. Thu thập và Sử dụng Thông tin",
+        "2-p": "Để có trải nghiệm tốt hơn khi sử dụng Dịch vụ của chúng tôi, tôi có thể yêu cầu bạn cung cấp cho chúng tôi một số thông tin nhận dạng cá nhân nhất định. Thông tin mà tôi yêu cầu sẽ được lưu giữ trên thiết bị của bạn và không được tôi thu thập dưới bất kỳ hình thức nào. Ứng dụng này sử dụng các dịch vụ của bên thứ ba có thể thu thập thông tin được sử dụng để nhận dạng bạn.",
+        "3-h2": "2. Dữ liệu Nhật ký",
+        "3-p": "Tôi muốn thông báo cho bạn rằng bất cứ khi nào bạn sử dụng Dịch vụ của tôi, trong trường hợp có lỗi trong ứng dụng, tôi thu thập dữ liệu và thông tin (thông qua sản phẩm của bên thứ ba) trên điện thoại của bạn được gọi là Dữ liệu Nhật ký. Dữ liệu Nhật ký này có thể bao gồm thông tin như địa chỉ Giao thức Internet (\"IP\") của thiết bị, tên thiết bị, phiên bản hệ điều hành, cấu hình của ứng dụng khi sử dụng Dịch vụ của tôi, thời gian và ngày bạn sử dụng Dịch vụ, và các thống kê khác.",
+        "4-h2": "3. Cookie",
+        "4-p": "Cookie là các tệp với một lượng nhỏ dữ liệu thường được sử dụng như định danh duy nhất ẩn danh. Chúng được gửi đến trình duyệt của bạn từ trang web mà bạn truy cập và được lưu trữ trên bộ nhớ trong của thiết bị của bạn. Dịch vụ này không sử dụng \"cookie\" này một cách rõ ràng. Tuy nhiên, ứng dụng có thể sử dụng mã và thư viện của bên thứ ba sử dụng \"cookie\" để thu thập thông tin và cải thiện dịch vụ của họ. Bạn có tùy chọn chấp nhận hoặc từ chối những cookie này và biết khi nào một cookie được gửi đến thiết bị của bạn. Nếu bạn chọn từ chối cookie của chúng tôi, bạn có thể không sử dụng được một số phần của Dịch vụ này.",
+        "5-h2": "4. Nhà cung cấp Dịch vụ",
+        "5-p-1": "Tôi có thể thuê các công ty và cá nhân bên thứ ba vì những lý do sau:",
+        "5-li-1": "Để tạo điều kiện thuận lợi cho Dịch vụ của chúng tôi;",
+        "5-li-2": "Để cung cấp Dịch vụ thay mặt chúng tôi;",
+        "5-li-3": "Để thực hiện các dịch vụ liên quan đến Dịch vụ; hoặc",
+        "5-li-4": "Để hỗ trợ chúng tôi trong việc phân tích cách Dịch vụ của chúng tôi được sử dụng.",
+        "5-p-2": "Tôi muốn thông báo cho người dùng Dịch vụ này rằng các bên thứ ba này có quyền truy cập vào Thông tin Cá nhân của họ. Lý do là để thực hiện các nhiệm vụ được giao cho họ thay mặt chúng tôi. Tuy nhiên, họ có nghĩa vụ không tiết lộ hoặc sử dụng thông tin cho bất kỳ mục đích nào khác.",
+        "6-h2": "5. Bảo mật",
+        "6-p": "Tôi đánh giá cao sự tin tưởng của bạn trong việc cung cấp cho chúng tôi Thông tin Cá nhân của bạn, do đó chúng tôi đang cố gắng sử dụng các phương tiện bảo vệ được chấp nhận về mặt thương mại. Nhưng hãy nhớ rằng không có phương thức truyền qua internet, hoặc phương pháp lưu trữ điện tử nào là 100% an toàn và đáng tin cậy, và tôi không thể đảm bảo tính bảo mật tuyệt đối của nó.",
+        "7-h2": "6. Liên kết đến Các Trang Web Khác",
+        "7-p": "Dịch vụ này có thể chứa các liên kết đến các trang web khác. Nếu bạn nhấp vào liên kết của bên thứ ba, bạn sẽ được chuyển hướng đến trang đó. Lưu ý rằng các trang web bên ngoài này không được vận hành bởi tôi. Do đó, tôi khuyên bạn nên xem xét Chính sách Bảo mật của các trang web này. Tôi không có quyền kiểm soát và không chịu trách nhiệm về nội dung, chính sách bảo mật, hoặc thực tiễn của bất kỳ trang web hoặc dịch vụ bên thứ ba nào.",
+        "8-h2": "7. Thay đổi đối với Chính sách Bảo mật Này",
+        "8-p": "Tôi có thể cập nhật Chính sách Bảo mật của chúng tôi theo thời gian. Vì vậy, bạn nên xem lại trang này định kỳ để biết bất kỳ thay đổi nào. Tôi sẽ thông báo cho bạn về bất kỳ thay đổi nào bằng cách đăng Chính sách Bảo mật mới trên trang này. Những thay đổi này có hiệu lực ngay sau khi được đăng trên trang này."
+        },
+        "termsConditions": {
+        "1-h1": "Điều khoản Dịch vụ của Thư mục Aibesttop",
+        "1-p": "Chào mừng bạn đến với Thư mục Aibesttop! Trang web của chúng tôi, nằm tại https://tap4.ai (\"Trang web\"), được thiết kế để cung cấp khả năng tạo ra hình ảnh tùy chỉnh. Bằng cách truy cập hoặc sử dụng trang web của chúng tôi, bạn đồng ý bị ràng buộc bởi các Điều khoản Dịch vụ này (\"Điều khoản\"). Nếu bạn không đồng ý với bất kỳ phần nào của các điều khoản, thì bạn bị cấm sử dụng Trang web.",
+        "2-h2": "1. Giấy phép Sử dụng",
+        "2-p": "Bạn được cấp một giấy phép có giới hạn, không độc quyền, không thể chuyển nhượng để sử dụng Trang web và các dịch vụ của nó cho mục đích cá nhân, phi thương mại. Giấy phép này không bao gồm bất kỳ quyền sao chép, sửa đổi hoặc phân phối nội dung của Trang web, hoặc sử dụng nó cho mục đích thương mại mà không có sự đồng ý trước bằng văn bản của chúng tôi.",
+        "3-h2": "2. Quyền sở hữu",
+        "3-p": "Quyền sở hữu của hình ảnh được tạo ra từ văn bản trên trang web thuộc về người tạo ra hình ảnh. Tap4.ai không tuyên bố quyền sở hữu đối với bất kỳ hình ảnh nào do người dùng tạo ra.",
+        "4-h2": "3. Thu thập Dữ liệu Người dùng",
+        "4-p": "Chúng tôi thu thập dữ liệu cá nhân (tên, email, thông tin thanh toán) và dữ liệu phi cá nhân (cookie web) để cải thiện dịch vụ của chúng tôi. Việc sử dụng dữ liệu này được quản lý bởi Chính sách Bảo mật của chúng tôi, có thể được tìm thấy tại",
+        "terms-of-service": "Điều khoản Dịch vụ",
+        "5-h2": "4. Luật Điều chỉnh",
+        "5-p": "Các Điều khoản này sẽ được điều chỉnh và giải thích theo luật pháp của Hoa Kỳ, không tính đến các quy định về xung đột pháp luật của nó.",
+        "6-h2": "5. Thay đổi Điều khoản",
+        "6-p": "Thư mục Aibesttop có quyền, theo quyết định riêng của mình, sửa đổi hoặc thay thế các Điều khoản này bất cứ lúc nào. Chúng tôi sẽ thông báo cho người dùng về bất kỳ thay đổi nào qua email. Việc bạn tiếp tục sử dụng Trang web sau khi có bất kỳ thay đổi nào đối với các Điều khoản này sẽ cấu thành sự chấp nhận của bạn đối với những thay đổi đó.",
+        "7-h2": "6. Thông tin Liên hệ",
+        "7-p": "Nếu bạn có bất kỳ câu hỏi nào về các Điều khoản này, vui lòng liên hệ với chúng tôi tại contact@6677.ai.",
+        "last-p": "Bằng cách sử dụng Thư mục Aibesttop, bạn đồng ý với các Điều khoản Dịch vụ này."
+        }
+    },
+    "NotFound": {
+        "title": "404 Không tìm thấy",
+        "goHome": "Về Trang chủ"
+    },
+    "Home": {
+        "title": "Aibesttop - Khám phá các công cụ AI tốt nhất 2024",
+        "subTitle": "Nhận các công cụ AI yêu thích của bạn tại Thư mục Công cụ AI Aibesttop. Danh sách công cụ AI được cập nhật hàng ngày bởi GPT-4o. Miễn phí gửi tại đây để cải thiện SEO của bạn ngay bây giờ.",
+        "ai-navigate": "Danh sách công cụ AI",
+        "exploreMore": "Khám phá thêm công cụ AI",
+        "checkDetail": "Xem chi tiết",
+        "search": "Tìm kiếm",
+        "result": "Kết quả tìm kiếm",
+        "empty": "Không có dữ liệu"
+    },
+    "Category": {
+        "home": "Trang chủ",
+        "empty": "Không có dữ liệu"
+    },
+    "Submit": {
+        "title": "Gửi Công cụ AI",
+        "subTitle": "Gửi công cụ AI của bạn và nhận lưu lượng truy cập từ Thư mục Aibesttop",
+        "website": "Tên trang web",
+        "url": "URL trang web",
+        "submit": "Gửi",
+        "add": "Thêm",
+        "text": "vào trang chủ trang web của bạn để gửi trang web thành công miễn phí!",
+        "networkError": "Lỗi mạng",
+        "success": "Thành công"
+    },
+    "Startup": {
+        "title": "Bắt đầu Khởi động Startup",
+        "subTitle": "Danh sách các trang web tốt nhất để khởi động và quảng bá startup của bạn trực tuyến. Gửi email đến contact@tap4.ai nếu bạn cần trợ giúp để thêm vào danh sách hoặc gửi sản phẩm của bạn vào danh sách miễn phí.",
+        "updateTime": "Được tuyển chọn và cập nhật hàng ngày. Cập nhật lần cuối:",
+        "table": {
+            "da": "DA",
+        "website": "Trang web",
+        "tags": "Thẻ",
+        "price": "Giá",
+        "submission": "Gửi"
+        },
+        "detail": {
+        "visitWebsite": "Truy cập trang web",
+        "introduction": "Giới thiệu"
+        }
+    },
+    "Explore": {
+        "title": "Khám phá các công cụ AI tốt nhất năm 2024",
+        "subTitle": "Tìm các công cụ AI yêu thích của bạn trong Thư mục Công cụ AI Aibesttop. Danh sách công cụ AI được cập nhật hàng ngày bởi GPT-4o."
+    },
+    "Metadata": {
+        "home": {
+        "title": "Nhận các công cụ AI tốt nhất của bạn | Thư mục Aibesttop",
+        "description": "Thư mục Aibesttop là một công cụ cung cấp thư mục công cụ AI miễn phí. Nhận các công cụ AI yêu thích của bạn với Thư mục Aibesttop, Thư mục Aibesttop nhằm mục đích thu thập tất cả các công cụ AI và cung cấp dịch vụ tốt nhất cho người dùng.",
+        "keywords": "Thư mục Aibesttop"
+        },
+        "ai": {
+        "titleSubfix": "Thư mục Aibesttop"
+        },
+        "explore": {
+        "title": "Khám phá các công cụ AI tốt nhất năm 2024 | Thư mục Aibesttop",
+        "titlePrefix": "Khám phá Thư mục Aibesttop",
+        "titleSuffix": "Thư mục Aibesttop",
+        "description": "Thư mục Aibesttop là một công cụ cung cấp thư mục công cụ AI miễn phí. Nhận các công cụ AI yêu thích của bạn với Thư mục Aibesttop, Thư mục Aibesttop nhằm mục đích thu thập tất cả các công cụ AI và cung cấp dịch vụ tốt nhất cho người dùng.",
+        "keywords": "Thư mục Aibesttop"
+        },
+        "submit": {
+        "title": "Gửi công cụ AI của bạn và nhận lưu lượng truy cập | Thư mục Aibesttop"
+        }
+    }
+    }
