@@ -1,3 +1,5 @@
+import { languages } from "@/i18n";
+
 /* eslint-disable no-template-curly-in-string */
 type CrawlerRequest = {
   url: string;
@@ -11,17 +13,17 @@ type CrawlerResponse = {
   msg: string;
 };
 
-// type CrawlerData = {
-//   description: string;
-//   detail: string;
-//   languages: string[];
-//   name: string;
-//   screenshot_data: string;
-//   screenshot_thumbnail_data: string;
-//   tags: string[] | null;
-//   title: string;
-//   url: string;
-// };
+type CrawlerData = {
+  description: string;
+  detail: string;
+  languages: string[];
+  name: string;
+  screenshot_data: string;
+  screenshot_thumbnail_data: string;
+  tags: string[] | null;
+  title: string;
+  url: string;
+};
 
 export default async function crawler({ url, tags, callback_url, key }: CrawlerRequest) {
   const crawlerKey = process.env.CRAWLER_API_KEY;
@@ -36,6 +38,7 @@ export default async function crawler({ url, tags, callback_url, key }: CrawlerR
       tags,
       callback_url,
       key,
+      languages: languages.map(lang => lang.code) // 请求所有支持的语言
     }),
   });
   return (await res.json()) as CrawlerResponse;

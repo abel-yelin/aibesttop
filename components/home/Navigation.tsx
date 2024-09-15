@@ -59,11 +59,6 @@ export default function Navigation() {
             </ul>
             <div className='flex items-center gap-x-3'>
               <LocaleSwitcher />
-              <Link href="/login">
-                <button className="text-white bg-blue-600 hover:bg-blue-700 px-3 py-1 rounded">
-                  登录
-                </button>
-              </Link>
             </div>
           </div>
           {/* mobile */}

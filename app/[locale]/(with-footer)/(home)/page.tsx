@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { createClient } from '@/db/supabase/client';
 import { CircleChevronRight } from 'lucide-react';
 import { getTranslations } from 'next-intl/server';
+import { languages } from '@/i18n';
 
 import { RevalidateOneHour } from '@/lib/constants';
 import Faq from '@/components/Faq';
@@ -33,13 +34,35 @@ export async function generateMetadata({ params: { locale } }: { params: { local
 
 export const revalidate = RevalidateOneHour;
 
-export default async function Page() {
+export default async function Page({ params: { locale } }: { params: { locale: string } }) {
   const supabase = createClient();
   const t = await getTranslations('Home');
-  const [{ data: categoryList }, { data: navigationList }] = await Promise.all([
-    supabase.from('navigation_category').select(),
-    supabase.from('web_navigation').select().order('collection_time', { ascending: false }).limit(12),
-  ]);
+  
+  const fullLocale = languages.find(lang => lang.lang === locale)?.code || 'en-US';
+
+  let { data: navigationList } = await supabase
+    .from('web_navigation')
+    .select('*')
+    .eq('language', fullLocale)
+    .order('collection_time', { ascending: false })
+    .limit(12);
+
+  if (!navigationList || navigationList.length === 0) {
+    // 如果当前语言没有数据，获取英语数据
+    const { data: englishList } = await supabase
+      .from('web_navigation')
+      .select('*')
+      .eq('language', 'en-US')
+      .order('collection_time', { ascending: false })
+      .limit(12);
+    
+    navigationList = englishList;
+  }
+
+  const { data: categoryList } = await supabase.from('navigation_category').select();
+
+  const safeCategories = categoryList || [];
+  const safeNavigations = navigationList || [];
 
   return (
     <div className='relative w-full'>
@@ -53,7 +76,7 @@ export default async function Page() {
         </div>
         <div className='mb-10 mt-5'>
           <TagList
-            data={categoryList!.map((item) => ({
+            data={safeCategories.map((item) => ({
               id: String(item.id),
               name: item.name,
               href: `/category/${item.name}`,
@@ -62,7 +85,7 @@ export default async function Page() {
         </div>
         <div className='flex flex-col gap-5'>
           <h2 className='text-center text-[18px] lg:text-[32px]'>{t('ai-navigate')}</h2>
-          <WebNavCardList dataList={navigationList!} />
+          <WebNavCardList dataList={safeNavigations} />
           <Link
             href='/explore'
             className='mx-auto mb-5 flex w-fit items-center justify-center gap-5 rounded-[9px] border border-white p-[10px] text-sm leading-4 hover:opacity-70'

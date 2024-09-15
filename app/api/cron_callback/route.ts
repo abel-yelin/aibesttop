@@ -1,5 +1,5 @@
 /* eslint-disable import/prefer-default-export */
-import { NextRequest, NextResponse } from 'next/server';
+import { NextResponse } from 'next/server';
 import { createClient } from '@/db/supabase/client';
 
 // submit table empty -> stop
@@ -13,93 +13,78 @@ import { createClient } from '@/db/supabase/client';
 // update submit table status
 
 export async function POST(req: NextRequest) {
+  console.log('Cron callback received');
   try {
-    // Get Authorization
+    // 获取请求头中的 Authorization
     const authHeader = req.headers.get('Authorization');
+    console.log('Auth header:', authHeader);
 
-    // Check Authorization and Verify token
+    // 检查 Authorization 是否存在并验证 token
     if (!authHeader || !authHeader.startsWith('Bearer ')) {
       return NextResponse.json({ error: 'Authorization header is missing or malformed' }, { status: 401 });
     }
 
     const token = authHeader.split(' ')[1];
     const submitKey = process.env.CRON_AUTH_KEY;
-    // check key
+    // 检查密钥
     const isValid = submitKey === token;
     if (!isValid) {
       return NextResponse.json({ error: 'Invalid token' }, { status: 401 });
     }
 
-    // get response data
-    const { description, detail, name, screenshot_data, screenshot_thumbnail_data, tags, title, url } =
-      await req.json();
+    // 获取响应数据
+    const body = await req.json();
+    console.log('Received callback data:', body);
+
+    const { description, detail, name, screenshot_data, screenshot_thumbnail_data, tags, title, url } = body;
+
+    if (!url) {
+      console.error('Missing URL in callback data');
+      return NextResponse.json({ error: 'Missing URL in callback data' }, { status: 400 });
+    }
 
     const supabase = createClient();
 
-    // Check if name already exists
-    const { data: existingEntry, error: existingEntryError } = await supabase
+    // 插入或更新 web_navigation 表
+    const { data, error } = await supabase
       .from('web_navigation')
-      .select('id')
-      .eq('name', name)
-      .single();
-
-    if (existingEntryError && existingEntryError.code !== 'PGRST116') {
-      // PGRST116 means no rows found
-      throw new Error(existingEntryError.message);
-    }
-
-    if (existingEntry) {
-      // Update existing entry
-      const { error: updateWebNavigationError } = await supabase
-        .from('web_navigation')
-        .update({
-          content: description,
-          detail,
-          image_url: screenshot_data,
-          thumbnail_url: screenshot_thumbnail_data,
-          tag_name: tags && tags.length ? tags[0] : 'other',
-          category_name: tags && tags.length ? tags[0] : 'other',
-          title,
-          url,
-        })
-        .eq('id', existingEntry.id);
-
-      if (updateWebNavigationError) {
-        throw new Error(updateWebNavigationError.message);
-      }
-
-      console.log('Update result succeed!');
-    } else {
-      // Insert new entry
-      const { error: insertWebNavigationError } = await supabase.from('web_navigation').insert({
+      .upsert({
+        name,
+        title,
+        url,
         content: description,
         detail,
-        name,
         image_url: screenshot_data,
         thumbnail_url: screenshot_thumbnail_data,
         tag_name: tags && tags.length ? tags[0] : 'other',
         category_name: tags && tags.length ? tags[0] : 'other',
-        title,
-        url,
-      });
+        collection_time: new Date().toISOString(),
+      }, { onConflict: 'url' })
+      .select();
 
-      if (insertWebNavigationError) {
-        throw new Error(insertWebNavigationError.message);
-      }
-
-      console.log('Save result succeed!');
+    if (error) {
+      console.error('Error upserting web_navigation:', error);
+      throw new Error(error.message);
     }
 
-    // Update submit table
-    const { error: updateSubmitError } = await supabase.from('submit').update({ status: 1 }).eq('url', url);
+    console.log('Upsert result:', data);
 
-    if (updateSubmitError) {
-      throw new Error(updateSubmitError.message);
+    // 更新 submit 表状态为已完成
+    const { error: updateError } = await supabase
+      .from('submit')
+      .update({ status: 1 }) // 1 表示已完成
+      .eq('url', url);
+
+    if (updateError) {
+      console.error('Error updating submit status:', updateError);
+      throw new Error('Failed to update submit status');
     }
 
-    console.log('Update submit succeed!');
-    return NextResponse.json({ message: 'Success' });
+    console.log('Processing completed for URL:', url);
+    return NextResponse.json({ message: 'Success', data });
+
   } catch (error) {
-    return NextResponse.json({ error: Error }, { status: 500 });
+    console.error('Error in cron callback:', error);
+    return NextResponse.json({ error: error.message }, { status: 500 });
   }
 }
