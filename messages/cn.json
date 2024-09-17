@@ -14,7 +14,7 @@
     "title": "开源Aibesttop工具目录",
     "subTitle": "发现2024年最佳AI工具，尽在Aibesttop工具目录！",
     "support": "支持",
-    "tap4": "Aibesttop",
+    "aibesttop": "Aibesttop",
     "tattoo": "AI纹身生成器",
     "privacy": "隐私政策",
     "termsConditions": "条款和条件",
@@ -24,11 +24,11 @@
     "title": "常见问题",
     "1": {
       "question": "Aibesttop工具目录是什么？",
-      "answer": "Aibesttop工具目录 - tap4.ai正在建立一个AI工具目录，帮助您获取您喜爱的AI工具。您可以在这里找到AI写作工具、AI营销工具、AI改写工具、AI SEO工具、AI学习工具、AI生成工具、AI研究工具、AI艺术工具、AI音乐工具、AI视频工具、AI编码工具、AI图片工具等等。"
+      "answer": "Aibesttop工具目录 - aibesttop.com正在建立一个AI工具目录，帮助您获取您喜爱的AI工具。您可以在这里找到AI写作工具、AI营销工具、AI改写工具、AI SEO工具、AI学习工具、AI生成工具、AI研究工具、AI艺术工具、AI音乐工具、AI视频工具、AI编码工具、AI图片工具等等。"
     },
     "2": {
       "question": "如何在Aibesttop工具目录中找到您的AI工具？",
-      "answer-1": "1. 打开tap4.ai。",
+      "answer-1": "1. 打开aibesttop.com。",
       "answer-2": "2. 浏览Aibesttop工具目录中的AI工具。",
       "answer-3": "3. 单击您需要的AI工具，查看详情并访问它。"
     },
@@ -67,7 +67,7 @@
     },
     "11": {
       "question": "Aibesttop目录的Web UI是开源的吗？",
-      "answer": "是的，我们将在GitHub（https://github.com/6677-ai/tap4-ai-webui）上开源Aibesttop目录的Web UI。请给我们点星。"
+      "answer": "是的，我们将在GitHub（https://github.com/6677-ai/aibesttop-ai-webui）上开源Aibesttop目录的Web UI。请给我们点星。"
     }
   },
   "FooterNavigation": {
@@ -96,11 +96,11 @@
     },
     "termsConditions": {
       "1-h1": "Aibesttop目录服务条款",
-      "1-p": "欢迎来到Aibesttop目录！我们的网站位于https://tap4.ai（\"网站\"），致力于为您提供创建自定义图像的能力。通过访问或使用我们的网站，您同意受这些服务条款（\"条款\"）的约束。如果您不同意任何条款，则禁止使用该网站。",
+      "1-p": "欢迎来到Aibesttop目录！我们的网站位于https://aibesttop.com（\"网站\"），致力于为您提供创建自定义图像的能力。通过访问或使用我们的网站，您同意受这些服务条款（\"条款\"）的约束。如果您不同意任何条款，则禁止使用该网站。",
       "2-h2": "1. 使用许可",
       "2-p": "您被授予有限的、非排他性的、不可转让的许可，以个人、非商业目的使用本网站及其服务。未经我们事先书面同意，本许可证不包括任何复制、修改或分发本网站内容或将其用于商业目的的权利。",
       "3-h2": "2. 所有权",
-      "3-p": "在网站上从文本生成的图像的所有权属于创建图像的人。Tap4.ai不对用户创建的图像声称所有权。",
+      "3-p": "在网站上从文本生成的图像的所有权属于创建图像的人。aibesttop.com不对用户创建的图像声称所有权。",
       "4-h2": "3. 用户数据收集",
       "4-p": "我们收集个人数据（姓名、电子邮件和支付信息）和非个人数据（网页Cookie）以改进我们的服务。使用这些数据受我们的隐私政策的约束，可以在",
       "terms-of-service": "服务条款",
@@ -144,7 +144,7 @@
   },
   "Startup": {
     "title": "启动您的创业公司",
-    "subTitle": "启动和推广您的创业公司网站的终极列表。要添加到列表或帮助提交您的产品到免费列表，请发送电子邮件至：contact@tap4.ai。",
+    "subTitle": "启动和推广您的创业公司网站的终极列表。要添加到列表或帮助提交您的产品到免费列表，请发送电子邮件至：contact@aibesttop.com。",
     "updateTime": "每天策划和更新。上次更新：",
     "table": {
       "da": "DA",
@@ -180,6 +180,11 @@
     },
     "submit": {
       "title": "提交您的AI工具并获取流量 | Aibesttop目录"
+    },
+    "category": {
+      "title": "分类：{category}",
+      "description": "浏览 {category} 分类中的所有项目",
+      "keywords": "{category}, 分类, 浏览"
     }
   }
 }

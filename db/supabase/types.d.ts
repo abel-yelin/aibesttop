@@ -112,6 +112,67 @@ export type Database = {
         };
         Relationships: [];
       };
+      article_contents: {
+        Row: {
+          id: number;
+          title: string;
+          subtitle: string | null;
+          url: string | null;
+          order: number | null;
+          category: string | null;
+          preview_images: string[] | null;
+          keywords: string | null;
+          description: string | null;
+          tags: string | null;
+          sections: Json | null;
+          language: string;
+          original_content_id: number | null;
+          created_at: string;
+          updated_at: string;
+        };
+        Insert: {
+          id?: number;
+          title: string;
+          subtitle?: string | null;
+          url?: string | null;
+          order?: number | null;
+          category?: string | null;
+          preview_images?: string[] | null;
+          keywords?: string | null;
+          description?: string | null;
+          tags?: string | null;
+          sections?: Json | null;
+          language: string;
+          original_content_id?: number | null;
+          created_at?: string;
+          updated_at?: string;
+        };
+        Update: {
+          id?: number;
+          title?: string;
+          subtitle?: string | null;
+          url?: string | null;
+          order?: number | null;
+          category?: string | null;
+          preview_images?: string[] | null;
+          keywords?: string | null;
+          description?: string | null;
+          tags?: string | null;
+          sections?: Json | null;
+          language?: string;
+          original_content_id?: number | null;
+          created_at?: string;
+          updated_at?: string;
+        };
+        Relationships: [
+          {
+            foreignKeyName: "article_contents_original_content_id_fkey"
+            columns: ["original_content_id"]
+            referencedRelation: "article_contents"
+            referencedColumns: ["id"]
+          }
+        ];
+      };
     };
     Views: {
       [_ in never]: never;
@@ -203,3 +264,5 @@ export type Enums<
   : PublicEnumNameOrOptions extends keyof PublicSchema['Enums']
     ? PublicSchema['Enums'][PublicEnumNameOrOptions]
     : never;
+
+export type ArticleContents = Database['public']['Tables']['article_contents']['Row'];

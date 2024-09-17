@@ -3,7 +3,7 @@ import type { InferModel } from 'drizzle-orm';
 
 // 首先定义函数
 const createContentsTable = () => {
-  return pgTable('contents', {
+  return pgTable('article_contents', {
     id: serial('id').primaryKey(),
     title: text('title').notNull(),
     subtitle: text('subtitle'),

@@ -14,7 +14,7 @@
       "title": "Katalog narzędzi Aibesttop",
       "subTitle": "Odkryj najlepsze narzędzia AI 2024 w Katalogu narzędzi Aibesttop!",
       "support": "Wsparcie",
-      "tap4": "Aibesttop",
+      "aibesttop": "Aibesttop",
       "tattoo": "Generator tatuaży AI",
       "privacy": "Polityka prywatności",
       "termsConditions": "Warunki korzystania",
@@ -24,11 +24,11 @@
       "title": "Często zadawane pytania",
       "1": {
         "question": "Czym jest Katalog narzędzi Aibesttop?",
-        "answer": "Katalog narzędzi Aibesttop - tap4.ai to katalog narzędzi AI, który pomaga znaleźć ulubione narzędzia AI. Znajdziesz tu narzędzia do pisania AI, marketingu AI, parafrazowania AI, SEO AI, nauki AI, generatory AI, narzędzia badawcze AI, narzędzia artystyczne AI, muzyczne AI, wideo AI, kodowania AI, narzędzia do zdjęć AI i wiele więcej."
+        "answer": "Katalog narzędzi Aibesttop - aibesttop.com to katalog narzędzi AI, który pomaga znaleźć ulubione narzędzia AI. Znajdziesz tu narzędzia do pisania AI, marketingu AI, parafrazowania AI, SEO AI, nauki AI, generatory AI, narzędzia badawcze AI, narzędzia artystyczne AI, muzyczne AI, wideo AI, kodowania AI, narzędzia do zdjęć AI i wiele więcej."
       },
       "2": {
         "question": "Jak znaleźć swoje narzędzia AI w Katalogu narzędzi Aibesttop?",
-        "answer-1": "1. Otwórz tap4.ai.",
+        "answer-1": "1. Otwórz aibesttop.com.",
         "answer-2": "2. Przeglądaj narzędzia AI w Katalogu narzędzi Aibesttop.",
         "answer-3": "3. Kliknij na narzędzie AI, którego potrzebujesz, aby uzyskać szczegóły i odwiedzić jego stronę."
       },
@@ -67,7 +67,7 @@
       },
       "11": {
         "question": "Czy interfejs webowy Katalogu Aibesttop jest open source?",
-        "answer": "Tak, udostępnimy kod źródłowy interfejsu webowego Katalogu Aibesttop na GitHubie (https://github.com/6677-ai/tap4-ai-webui). Prosimy o gwiazdkę!"
+        "answer": "Tak, udostępnimy kod źródłowy interfejsu webowego Katalogu Aibesttop na GitHubie (https://github.com/6677-ai/aibesttop-ai-webui). Prosimy o gwiazdkę!"
       }
     },
     "FooterNavigation": {
@@ -96,11 +96,11 @@
       },
       "termsConditions": {
         "1-h1": "Warunki korzystania z Katalogu Aibesttop",
-        "1-p": "Witamy w Katalogu Aibesttop! Nasza strona internetowa, znajdująca się pod adresem https://tap4.ai ('Strona internetowa'), jest poświęcona zapewnieniu możliwości tworzenia niestandardowych obrazów. Uzyskując dostęp lub korzystając z naszej Strony internetowej, zgadzasz się przestrzegać niniejszych Warunków korzystania z usługi ('Warunki'). Jeśli nie zgadzasz się z jakąkolwiek częścią warunków, zabrania się korzystania ze Strony internetowej.",
+        "1-p": "Witamy w Katalogu Aibesttop! Nasza strona internetowa, znajdująca się pod adresem https://aibesttop.com ('Strona internetowa'), jest poświęcona zapewnieniu możliwości tworzenia niestandardowych obrazów. Uzyskując dostęp lub korzystając z naszej Strony internetowej, zgadzasz się przestrzegać niniejszych Warunków korzystania z usługi ('Warunki'). Jeśli nie zgadzasz się z jakąkolwiek częścią warunków, zabrania się korzystania ze Strony internetowej.",
         "2-h2": "1. Licencja na użytkowanie",
         "2-p": "Otrzymujesz ograniczoną, niewyłączną, nieprzenoszalną licencję na korzystanie ze Strony internetowej i jej usług do celów osobistych, niekomercyjnych. Licencja ta nie obejmuje żadnych praw do kopiowania, modyfikowania lub rozpowszechniania treści Strony internetowej ani wykorzystywania jej do celów komercyjnych bez naszej uprzedniej pisemnej zgody.",
         "3-h2": "2. Własność",
-        "3-p": "Własność obrazów wygenerowanych z tekstu na Stronie internetowej należy do osoby, która stworzyła obraz. Tap4.ai nie rości sobie praw własności do obrazów stworzonych przez użytkowników.",
+        "3-p": "Własność obrazów wygenerowanych z tekstu na Stronie internetowej należy do osoby, która stworzyła obraz. aibesttop.com nie rości sobie praw własności do obrazów stworzonych przez użytkowników.",
         "4-h2": "3. Gromadzenie danych użytkownika",
         "4-p": "Gromadzimy dane osobowe (imię i nazwisko, adres e-mail i informacje o płatnościach) oraz dane nieosobowe (pliki cookie stron internetowych) w celu ulepszenia naszych usług. Wykorzystanie tych danych podlega naszej Polityce prywatności, którą można znaleźć w",
         "terms-of-service": "warunkach korzystania z usługi",
@@ -144,7 +144,7 @@
     },
     "Startup": {
       "title": "Rozpocznij swoją przygodę ze startupem",
-      "subTitle": "Ostateczna lista stron internetowych do uruchomienia i promocji Twojego startupu online. Aby dodać do listy lub pomóc w dodaniu Twojego produktu do darmowej listy, napisz do nas: contact@tap4.ai.",
+      "subTitle": "Ostateczna lista stron internetowych do uruchomienia i promocji Twojego startupu online. Aby dodać do listy lub pomóc w dodaniu Twojego produktu do darmowej listy, napisz do nas: contact@aibesttop.com.",
       "updateTime": "Aktualizowane codziennie. Ostatnia aktualizacja:",
       "table": {
         "da": "DA",
@@ -180,6 +180,11 @@
       },
       "submit": {
         "title": "Dodaj swoje narzędzie AI i zyskaj ruch | Katalog Aibesttop"
+      },
+      "category": {
+        "title": "Kategoria: {category}",
+        "description": "Przeglądaj wszystkie elementy w kategorii {category}",
+        "keywords": "{category}, kategoria, przeglądać"
       }
     }
   }

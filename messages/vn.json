@@ -14,7 +14,7 @@
       "title": "Thư mục công cụ Aibesttop",
       "subTitle": "Khám phá các công cụ AI tốt nhất năm 2024 với Thư mục công cụ Aibesttop!",
       "support": "Hỗ trợ",
-      "tap4": "Aibesttop",
+      "aibesttop": "Aibesttop",
       "tattoo": "Trình tạo hình xăm AI",
       "privacy": "Chính sách bảo mật",
       "termsConditions": "Điều khoản & Điều kiện",
@@ -24,11 +24,11 @@
       "title": "Câu hỏi thường gặp",
       "1": {
         "question": "Thư mục công cụ Aibesttop là gì?",
-        "answer": "Thư mục công cụ Aibesttop - tap4.ai đang xây dựng một thư mục công cụ AI giúp bạn tìm được các công cụ AI yêu thích. Bạn có thể tìm thấy các công cụ viết AI, công cụ tiếp thị AI, công cụ viết lại AI, công cụ SEO AI, công cụ học tập AI, công cụ tạo AI, công cụ nghiên cứu AI, công cụ nghệ thuật AI, công cụ âm nhạc AI, công cụ video AI, công cụ lập trình AI, công cụ ảnh AI và nhiều hơn nữa tại đây."
+        "answer": "Thư mục công cụ Aibesttop - aibesttop.com đang xây dựng một thư mục công cụ AI giúp bạn tìm được các công cụ AI yêu thích. Bạn có thể tìm thấy các công cụ viết AI, công cụ tiếp thị AI, công cụ viết lại AI, công cụ SEO AI, công cụ học tập AI, công cụ tạo AI, công cụ nghiên cứu AI, công cụ nghệ thuật AI, công cụ âm nhạc AI, công cụ video AI, công cụ lập trình AI, công cụ ảnh AI và nhiều hơn nữa tại đây."
       },
       "2": {
         "question": "Làm thế nào để tìm công cụ AI của bạn trong thư mục công cụ Aibesttop?",
-        "answer-1": "1. Mở tap4.ai.",
+        "answer-1": "1. Mở aibesttop.com.",
         "answer-2": "2. Khám phá các công cụ AI trong thư mục công cụ Aibesttop.",
         "answer-3": "3. Nhấp vào công cụ AI bạn cần để xem chi tiết và truy cập nó."
       },
@@ -67,7 +67,7 @@
       },
       "11": {
         "question": "Giao diện web của Thư mục Aibesttop có mã nguồn mở không?",
-        "answer": "Có, chúng tôi sẽ mở mã nguồn giao diện web của Thư mục Aibesttop trên github (https://github.com/6677-ai/tap4-ai-webui). Hãy gắn sao cho chúng tôi."
+        "answer": "Có, chúng tôi sẽ mở mã nguồn giao diện web của Thư mục Aibesttop trên github (https://github.com/6677-ai/aibesttop-ai-webui). Hãy gắn sao cho chúng tôi."
       }
     },
     "FooterNavigation": {
@@ -96,11 +96,11 @@
         },
         "termsConditions": {
         "1-h1": "Điều khoản Dịch vụ của Thư mục Aibesttop",
-        "1-p": "Chào mừng bạn đến với Thư mục Aibesttop! Trang web của chúng tôi, nằm tại https://tap4.ai (\"Trang web\"), được thiết kế để cung cấp khả năng tạo ra hình ảnh tùy chỉnh. Bằng cách truy cập hoặc sử dụng trang web của chúng tôi, bạn đồng ý bị ràng buộc bởi các Điều khoản Dịch vụ này (\"Điều khoản\"). Nếu bạn không đồng ý với bất kỳ phần nào của các điều khoản, thì bạn bị cấm sử dụng Trang web.",
+        "1-p": "Chào mừng bạn đến với Thư mục Aibesttop! Trang web của chúng tôi, nằm tại https://aibesttop.com (\"Trang web\"), được thiết kế để cung cấp khả năng tạo ra hình ảnh tùy chỉnh. Bằng cách truy cập hoặc sử dụng trang web của chúng tôi, bạn đồng ý bị ràng buộc bởi các Điều khoản Dịch vụ này (\"Điều khoản\"). Nếu bạn không đồng ý với bất kỳ phần nào của các điều khoản, thì bạn bị cấm sử dụng Trang web.",
         "2-h2": "1. Giấy phép Sử dụng",
         "2-p": "Bạn được cấp một giấy phép có giới hạn, không độc quyền, không thể chuyển nhượng để sử dụng Trang web và các dịch vụ của nó cho mục đích cá nhân, phi thương mại. Giấy phép này không bao gồm bất kỳ quyền sao chép, sửa đổi hoặc phân phối nội dung của Trang web, hoặc sử dụng nó cho mục đích thương mại mà không có sự đồng ý trước bằng văn bản của chúng tôi.",
         "3-h2": "2. Quyền sở hữu",
-        "3-p": "Quyền sở hữu của hình ảnh được tạo ra từ văn bản trên trang web thuộc về người tạo ra hình ảnh. Tap4.ai không tuyên bố quyền sở hữu đối với bất kỳ hình ảnh nào do người dùng tạo ra.",
+        "3-p": "Quyền sở hữu của hình ảnh được tạo ra từ văn bản trên trang web thuộc về người tạo ra hình ảnh. aibesttop.com không tuyên bố quyền sở hữu đối với bất kỳ hình ảnh nào do người dùng tạo ra.",
         "4-h2": "3. Thu thập Dữ liệu Người dùng",
         "4-p": "Chúng tôi thu thập dữ liệu cá nhân (tên, email, thông tin thanh toán) và dữ liệu phi cá nhân (cookie web) để cải thiện dịch vụ của chúng tôi. Việc sử dụng dữ liệu này được quản lý bởi Chính sách Bảo mật của chúng tôi, có thể được tìm thấy tại",
         "terms-of-service": "Điều khoản Dịch vụ",
@@ -144,7 +144,7 @@
     },
     "Startup": {
         "title": "Bắt đầu Khởi động Startup",
-        "subTitle": "Danh sách các trang web tốt nhất để khởi động và quảng bá startup của bạn trực tuyến. Gửi email đến contact@tap4.ai nếu bạn cần trợ giúp để thêm vào danh sách hoặc gửi sản phẩm của bạn vào danh sách miễn phí.",
+        "subTitle": "Danh sách các trang web tốt nhất để khởi động và quảng bá startup của bạn trực tuyến. Gửi email đến contact@aibesttop.com nếu bạn cần trợ giúp để thêm vào danh sách hoặc gửi sản phẩm của bạn vào danh sách miễn phí.",
         "updateTime": "Được tuyển chọn và cập nhật hàng ngày. Cập nhật lần cuối:",
         "table": {
             "da": "DA",
@@ -180,6 +180,11 @@
         },
         "submit": {
         "title": "Gửi công cụ AI của bạn và nhận lưu lượng truy cập | Thư mục Aibesttop"
+        },
+        "category": {
+        "title": "Danh mục: {category}",
+        "description": "Xem tất cả các mục trong danh mục {category}",
+        "keywords": "{category}, danh mục, xem"
         }
     }
     }

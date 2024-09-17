@@ -1,186 +1,190 @@
 {
-    "Common": {
-      "loading": "loading..."
+  "Common": {
+    "loading": "جاري التحميل..."
+  },
+  "Navigation": {
+    "title": "دليل أدوات Aibesttop مفتوح المصدر",
+    "discover": "اكتشف الذكاء الاصطناعي",
+    "submit": "إرسال",
+    "newtools": "أدوات جديدة",
+    "startup": "الشركات الناشئة",
+    "menu": "القائمة"
+  },
+  "Footer": {
+    "title": "دليل أدوات Aibesttop مفتوح المصدر",
+    "subTitle": "اكتشف أفضل أدوات الذكاء الاصطناعي لعام 2024 مع دليل أدوات Aibesttop!",
+    "support": "الدعم",
+    "aibesttop": "Aibesttop",
+    "tattoo": "مولد الوشم بالذكاء الاصطناعي",
+    "privacy": "سياسة الخصوصية",
+    "termsConditions": "الشروط والأحكام",
+    "contactUs": "اتصل بنا"
+  },
+  "Faq": {
+    "title": "الأسئلة الشائعة",
+    "1": {
+      "question": "ما هو دليل أدوات Aibesttop مفتوح المصدر؟",
+      "answer": "دليل أدوات Aibesttop - aibesttop.com يقوم ببناء دليل لأدوات الذكاء الاصطناعي يساعدك في الحصول على أدوات الذكاء الاصطناعي المفضلة لديك. يمكنك الحصول على أدوات الكتابة بالذكاء الاصطناعي، وأدوات التسويق بالذكاء الاصطناعي، وأدوات إعادة الصياغة بالذكاء الاصطناعي، وأدوات تحسين محركات البحث بالذكاء الاصطناعي، وأدوات الدراسة بالذكاء الاصطناعي، وأدوات التوليد بالذكاء الاصطناعي، وأدوات البحث بالذكاء الاصطناعي، وأدوات الفن بالذكاء الاصطناعي، وأدوات الموسيقى بالذكاء الاصطناعي، وأدوات الفيديو بالذكاء الاصطناعي، وأدوات البرمجة بالذكاء الاصطناعي، وأدوات الصور بالذكاء الاصطناعي والمزيد هنا."
     },
-    "Navigation": {
-      "title": "Open-source Aibesttop Tools Directory",
-      "discover": "Discover AI",
-      "submit": "Submit",
-      "newtools": "New Tools",
-      "startup": "Startup",
-      "menu": "menu"
+    "2": {
+      "question": "كيف تجد أدوات الذكاء الاصطناعي الخاصة بك في دليل أدوات Aibesttop؟",
+      "answer-1": "1. افتح aibesttop.com.",
+      "answer-2": "2. استكشف أدوات الذكاء الاصطناعي في دليل أدوات Aibesttop.",
+      "answer-3": "3. انقر على أدوات الذكاء الاصطناعي التي تحتاجها للحصول على التفاصيل وزيارتها."
     },
-    "Footer": {
-      "title": "Open-source Aibesttop Tools Directory",
-      "subTitle": "Discover the best AI tools of 2024 with the Aibesttop Tools Directory!",
-      "support": "Support",
-      "tap4": "Aibesttop",
-      "tattoo": "AI Tattoo Generator",
-      "privacy": "Privacy policy",
-      "termsConditions": "Terms & Conditions",
-      "contactUs": "Contact Us"
+    "3": {
+      "question": "ما هي الميزات الرئيسية لدليل أدوات Aibesttop؟",
+      "answer-1": "1. دليل أدوات الذكاء الاصطناعي المجاني: يمكنك العثور على أدوات الذكاء الاصطناعي المفضلة لديك هنا مجانًا.",
+      "answer-2": "2. قائمة الشركات الناشئة: قائمة مجانية للشركات الناشئة لمطوري أدوات الذكاء الاصطناعي."
     },
-    "Faq": {
-      "title": "Frequently Asked Questions",
-      "1": {
-        "question": "What is Open-source Aibesttop Tools Directory?",
-        "answer": "Aibesttop Tools Directory - tap4.ai is building an ai tools directory that helps you get your favorite ai tools. It can get ai writing tools, ai markting tools, ai paraphrasing tools, ai seo tools, ai study tools, ai generator tools, ai research tools, ai art tools, ai music tools, ai video tools, ai coding tools, ai photo tools and more here."
-      },
-      "2": {
-        "question": "How to found your ai tools in Aibesttop tools directory?",
-        "answer-1": "1. Open tap4.ai.",
-        "answer-2": "2. Explore the ai tools in the Aibesttop tools directory.",
-        "answer-3": "3. Click the ai tools that you need to get the detail and visit it."
-      },
-      "3": {
-        "question": "What are the main features of Aibesttop Tools Directory?",
-        "answer-1": "1. Free AI Tools Directory: It's free to found your favorite AI Tools here.",
-        "answer-2": "2. Startup List: The free startup list for ai tools developers."
-      },
-      "4": {
-        "question": "Is it free to submit ai tools to Aibesttop Tools Directory?",
-        "answer": "Yes, it's free currently. But you should share the backlink for Aibesttop Tools Directory!"
-      },
-      "5": {
-        "question": "What's the categories list of AI Tools that Aibesttop Tools Directory support?",
-        "answer": "We will support all kinds of AI Tools later. Please wait for a few days."
-      },
-      "6": {
-        "question": "What's the frequency for the up of AI tools in Aibesttop Directory?",
-        "answer": "The list of AI tools will be updated daily."
-      },
-      "7": {
-        "question": "Is it support GPT-4o or Sora AI here?",
-        "answer": "You can get the GPT-4o or Sora AI tool here. Here is the introduction of GPT-4o and Sora video, and you can visit the website of the tools."
-      },
-      "8": {
-        "question": "Troubleshooting",
-        "answer": "If the content aren't appearing, try a different browser, clear your cache. If issues persist, contact us at contact@6677.ai."
-      },
-      "9": {
-        "question": "How does the content of Aibesttop Directory get generated?",
-        "answer": "The content of the description of the ai tools is generated by GPT-4o from OpenAI."
-      },
-      "10": {
-        "question": "What are the usage rights of the AI tools?",
-        "answer": "Aibesttop Tools Directory is just the AI Directory for AI tools. The usage rights of the AI tools are based on the AI tools' website."
-      },
-      "11": {
-        "question": "Does the webui of Aibesttop Directory is open source?",
-        "answer": "Yes, we will open source the webui of Aibesttop Directory in the github(https://github.com/6677-ai/tap4-ai-webui). Please star us."
-      }
+    "4": {
+      "question": "هل إرسال أدوات الذكاء الاصطناعي إلى دليل أدوات Aibesttop مجاني؟",
+      "answer": "نعم، إنه مجاني حاليًا. ولكن يجب عليك مشاركة الرابط الخلفي لدليل أدوات Aibesttop!"
     },
-    "FooterNavigation": {
-      "privacyPolicy": {
-        "1-h1": "Privacy Policy for Open-source Aibesttop Tools Directory",
-        "1-p": "This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service. If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy. The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.",
-        "2-h2": "1. Information Collection and Use",
-        "2-p": "For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way. The app does use third-party services that may collect information used to identify you.",
-        "3-h2": "2. Log Data",
-        "3-p": "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol ('IP') address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.",
-        "4-h2": "3. Cookies",
-        "4-p": "Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory. This Service does not use these \"cookies\" explicitly. However, the app may use third party code and libraries that use \"cookies\" to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.",
-        "5-h2": "4. Service Providers",
-        "5-p-1": "I may employ third-party companies and individuals due to the following reasons:",
-        "5-li-1": "To facilitate our Service;",
-        "5-li-2": "To provide the Service on our behalf;",
-        "5-li-3": "To perform Service-related services;",
-        "5-li-4": "To assist us in analyzing how our Service is used;",
-        "5-p-2": "I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.",
-        "6-h2": "5. Security",
-        "6-p": "I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.",
-        "7-h2": "6. Links to Other Sites",
-        "7-p": "This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.",
-        "8-h2": "7. Changes to This Privacy Policy",
-        "8-p": "I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page."
-      },
-      "termsConditions": {
-        "1-h1": "Terms of Service for Aibesttop Directory",
-        "1-p": "Welcome to Aibesttop Directory! Our website, located at https://tap4.ai (\"Website\"), is dedicated to providing you with the ability to create custom images. By accessing or using our Website, you agree to be bound by these Terms of Service (\"Terms\"). If you do not agree with any part of the terms, then you are prohibited from using the Website.",
-        "2-h2": "1. Use License",
-        "2-p": "You are granted a limited, non-exclusive, non-transferable license to use the Website and its services for personal, non-commercial purposes. This license does not include any rights to copy, modify, or distribute the Website's content or use it for commercial purposes without our prior written consent.",
-        "3-h2": "2. Ownership",
-        "3-p": "The ownership of images generated from text on the Website belongs to the person who created the image. Tap4.ai claims no ownership over images created by users.",
-        "4-h2": "3. User Data Collection",
-        "4-p": "We collect personal data (name, email, and payment information) and non-personal data (web cookies) to improve our services. The use of this data is governed by our Privacy Policy, which can be found at",
-        "terms-of-service": "terms-of-service",
-        "5-h2": "4. Governing Law",
-        "5-p": "These Terms shall be governed and construed in accordance with the laws of the United States of America, without regard to its conflict of law provisions.",
-        "6-h2": "5. Changes to Terms",
-        "6-p": "Aibesttop Directory reserves the right, at our sole discretion, to modify or replace these Terms at any time. We will notify users of any changes by email. Your continued use of the Website after any change in these Terms will constitute your acceptance of such changes.",
-        "7-h2": "6. Contact Information",
-        "7-p": "If you have any questions about these Terms, please contact us at contact@6677.ai.",
-        "last-p": "By using Aibesttop Directory, you signify your acceptance of these Terms of Service."
-      }
+    "5": {
+      "question": "ما هي قائمة فئات أدوات الذكاء الاصطناعي التي يدعمها دليل أدوات Aibesttop؟",
+      "answer": "سندعم جميع أنواع أدوات الذكاء الاصطناعي لاحقًا. يرجى الانتظار لبضعة أيام."
     },
-    "NotFound": {
-      "title": "404 Not Found",
-      "goHome": "go home"
+    "6": {
+      "question": "ما هو تكرار تحديث أدوات الذكاء الاصطناعي في دليل Aibesttop؟",
+      "answer": "سيتم تحديث قائمة أدوات الذكاء الاصطناعي يوميًا."
     },
-    "Home": {
-      "title": "Discover The Best AI Tools 2024",
-      "subTitle": "Get your favorite AI tools in Open-source Aibesttop Tools Directory. AI tools list are updated daily by GPT-4o. It's free to submit here to enhance your SEO now. ",
-      "ai-navigate": "AI Tools List",
-      "exploreMore": "Get More AI Tools",
-      "checkDetail": "View Detail",
-      "search": "Search",
-      "result": "Search Result",
-      "empty": "No data available"
+    "7": {
+      "question": "هل يدعم GPT-4o أو Sora AI هنا؟",
+      "answer": "يمكنك الحصول على أداة GPT-4o أو Sora AI هنا. هذه مقدمة عن GPT-4o وفيديو Sora، ويمكنك زيارة موقع الأدوات."
     },
-    "Category": {
-      "home": "home",
-      "empty": "No data available"
+    "8": {
+      "question": "استكشاف الأخطاء وإصلاحها",
+      "answer": "إذا لم يظهر المحتوى، جرب متصفحًا مختلفًا، امسح ذاكرة التخزين المؤقت. إذا استمرت المشكلات، اتصل بنا على contact@6677.ai."
     },
-    "Submit": {
-      "title": "Submit your AI Tool",
-      "subTitle": "Submit your AI Tool and Get traffic from Aibesttop Directory",
-      "website": "Website Name",
-      "url": "Website URL",
-      "submit": "Submit",
-      "add": "Add",
-      "text": "to your website homepage, And then you can submit your website successfully for free！",
-      "networkError": "Network Error",
-      "success": "success"
+    "9": {
+      "question": "كيف يتم إنشاء محتوى دليل Aibesttop؟",
+      "answer": "يتم إنشاء محتوى وصف أدوات الذكاء الاصطناعي بواسطة GPT-4o من OpenAI."
     },
-    "Startup": {
-      "title": "Kickstart Your Startup Launch",
-      "subTitle": "The Ultimate List of Websites to Launch and Promote Your Startup Online. For adding to the list or helping to submit for your product to the free list, please email us: contact@tap4.ai. ",
-      "updateTime": "Curated and updated daily. Last updated:",
-      "table": {
-        "da": "DA",
-        "website": "Website",
-        "tags": "Tags",
-        "price": "Price",
-        "submission": "Submission"
-      },
-      "detail": {
-        "visitWebsite": "Visit Website",
-        "introduction": "Introduction"
-      }
+    "10": {
+      "question": "ما هي حقوق استخدام أدوات الذكاء الاصطناعي؟",
+      "answer": "دليل أدوات Aibesttop هو مجرد دليل للذكاء الاصطناعي لأدوات الذكاء الاصطناعي. تعتمد حقوق استخدام أدوات الذكاء الاصطناعي على موقع أدوات الذكاء الاصطناعي."
     },
-    "Explore": {
-      "title": "Discover The Best AI Tools 2024",
-      "subTitle": "Get your favorite AI tools in Aibesttop Tools Directory. AI tools list are updated daily by GPT-4o."
+    "11": {
+      "question": "هل واجهة المستخدم لدليل Aibesttop مفتوحة المصدر؟",
+      "answer": "نعم، سنجعل واجهة المستخدم لدليل Aibesttop مفتوحة المصدر في GitHub (https://github.com/6677-ai/aibesttop-ai-webui). يرجى إعطاءنا نجمة."
+    }
+  },
+  "FooterNavigation": {
+    "privacyPolicy": {
+      "1-h1": "سياسة الخصوصية لدليل أدوات Aibesttop مفتوح المصدر",
+      "1-p": "تُستخدم هذه الصفحة لإعلام الزوار بسياساتي المتعلقة بجمع واستخدام والكشف عن المعلومات الشخصية إذا قرر أي شخص استخدام خدمتي. إذا اخترت استخدام خدمتي، فإنك توافق على جمع واستخدام المعلومات المتعلقة بهذه السياسة. يتم استخدام المعلومات الشخصية التي أجمعها لتوفير الخدمة وتحسينها. لن أستخدم أو أشارك معلوماتك مع أي شخص باستثناء ما هو موضح في سياسة الخصوصية هذه. المصطلحات المستخدمة في سياسة الخصوصية هذه لها نفس المعاني كما في الشروط والأحكام الخاصة بنا.",
+      "2-h2": "1. جمع المعلومات واستخدامها",
+      "2-p": "للحصول على تجربة أفضل، أثناء استخدام خدمتنا، قد أطلب منك تزويدنا ببعض المعلومات الشخصية القابلة للتعريف. سيتم الاحتفاظ بالمعلومات التي أطلبها على جهازك ولن يتم جمعها بأي شكل من الأشكال. يستخدم التطبيق خدمات الطرف الثالث التي قد تجمع معلومات تُستخدم لتحديد هويتك.",
+      "3-h2": "2. بيانات السجل",
+      "3-p": "أود إبلاغك أنه كلما استخدمت خدمتي، في حالة حدوث خطأ في التطبيق، أقوم بجمع البيانات والمعلومات (من خلال منتجات الطرف الثالث) على هاتفك تسمى بيانات السجل. قد تتضمن بيانات السجل هذه معلومات مثل عنوان بروتوكول الإنترنت ('IP') لجهازك، واسم الجهاز، وإصدار نظام التشغيل، وتكوين التطبيق عند استخدام خدمتي، ووقت وتاريخ استخدامك للخدمة، وإحصاءات أخرى.",
+      "4-h2": "3. ملفات تعريف الارتباط",
+      "4-p": "ملفات تعريف الارتباط هي ملفات تحتوي على كمية صغيرة من البيانات التي تُستخدم عادةً كمعرفات فريدة مجهولة. يتم إرسالها إلى متصفحك من مواقع الويب التي تزورها ويتم تخزينها على الذاكرة الداخلية لجهازك. لا تستخدم هذه الخدمة 'ملفات تعريف الارتباط' هذه بشكل صريح. ومع ذلك، قد يستخدم التطبيق رموز وأدوات الطرف الثالث التي تستخدم 'ملفات تعريف الارتباط' لجمع المعلومات وتحسين خدماتها. لديك خيار إما قبول أو رفض ملفات تعريف الارتباط هذه ومعرفة متى يتم إرسال ملف تعريف ارتباط إلى جهازك. إذا اخترت رفض ملفات تعريف الارتباط الخاصة بنا، فقد لا تتمكن من استخدام بعض أجزاء هذه الخدمة.",
+      "5-h2": "4. مقدمو الخدمة",
+      "5-p-1": "قد أوظف شركات وأفراد من الطرف الثالث للأسباب التالية:",
+      "5-li-1": "لتسهيل خدمتنا؛",
+      "5-li-2": "لتقديم الخدمة نيابة عنا؛",
+      "5-li-3": "لأداء الخدمات المتعلقة بالخدمة؛",
+      "5-li-4": "لمساعدتنا في تحليل كيفية استخدام خدمتنا؛",
+      "5-p-2": "أود إبلاغ مستخدمي هذه الخدمة أن هذه الأطراف الثالثة لديها حق الوصول إلى معلوماتك الشخصية. والسبب هو أداء المهام الموكلة إليهم نيابة عنا. ومع ذلك، فهم ملزمون بعدم الكشف عن المعلومات أو استخدامها لأي غرض آخر.",
+      "6-h2": "5. الأمان",
+      "6-p": "أقدر ثقتك في تزويدنا بمعلوماتك الشخصية، وبالتالي نحن نسعى جاهدين لاستخدام وسائل مقبولة تجاريًا لحمايتها. ولكن تذكر أنه لا توجد طريقة نقل عبر الإنترنت أو طريقة تخزين إلكتروني آمنة وموثوقة بنسبة 100٪، ولا يمكنني ضمان أمانها المطلق.",
+      "7-h2": "6. روابط لمواقع أخرى",
+      "7-p": "قد تحتوي هذه الخدمة على روابط لمواقع أخرى. إذا نقرت على رابط طرف ثالث، فسيتم توجيهك إلى هذا الموقع. لاحظ أن هذه المواقع الخارجية لا يتم تشغيلها من قبلي. لذلك، أنصحك بشدة بمراجعة سياسة الخصوصية لهذه المواقع. ليس لدي أي سيطرة ولا أتحمل أي مسؤولية عن المحتوى أو سياسات الخصوصية أو ممارسات أي مواقع أو خدمات تابعة لجهات خارجية.",
+      "8-h2": "7. التغييرات على سياسة الخصوصية هذه",
+      "8-p": "قد أقوم بتحديث سياسة الخصوصية الخاصة بنا من وقت لآخر. وبالتالي، يُنصح بمراجعة هذه الصفحة بشكل دوري لمعرفة أي تغييرات. سأخطرك بأي تغييرات عن طريق نشر سياسة الخصوصية الجديدة على هذه الصفحة. تصبح هذه التغييرات سارية المفعول فور نشرها على هذه الصفحة."
     },
-    "Metadata": {
-      "home": {
-        "title": "Get your best AI Tools | Open-source Aibesttop Tools Directory",
-        "description": "Aibesttop Directory is a tool provides free AI Tools Directory. Get your favorite AI tools with Aibesttop Directory, Aibesttop Directory aims to collect all the AI tools and provide the best for users.",
-        "keywords": "Aibesttop Directory"
-      },
-      "ai": {
-        "titleSubfix": "Aibesttop Directory"
-      },
-      "explore": {
-        "title": "Best AI Tools Explore 2024 | Open-source Aibesttop Tools Directory",
-        "titlePrefix": "Aibesttop Directory Explore",
-        "titleSuffix": "Aibesttop Directory",
-        "description": "Aibesttop Directory is a tool provides free AI Tools Directory. Get your favorite AI tools with Aibesttop Directory, Aibesttop Directory aims to collect all the AI tools and provide the best for users.",
-        "keywords": "Aibesttop Directory"
-      },
-      "submit": {
-        "title": "Submit your AI tool and get Get Traffic | Aibesttop Directory"
-      }
+    "termsConditions": {
+      "1-h1": "شروط الخدمة لدليل Aibesttop",
+      "1-p": "مرحبًا بك في دليل Aibesttop! موقعنا الإلكتروني، الموجود على https://aibesttop.com ('الموقع')، مخصص لتزويدك بالقدرة على إنشاء صور مخصصة. من خلال الوصول إلى موقعنا أو استخدامه، فإنك توافق على الالتزام بشروط الخدمة هذه ('الشروط'). إذا كنت لا توافق على أي جزء من الشروط، فيُحظر عليك استخدام الموقع.",
+      "2-h2": "1. ترخيص الاستخدام",
+      "2-p": "يتم منحك ترخيصًا محدودًا وغير حصري وغير قابل للتحويل لاستخدام الموقع وخدماته للأغراض الشخصية وغير التجارية. لا يتضمن هذا الترخيص أي حقوق لنسخ أو تعديل أو توزيع محتوى الموقع أو استخدامه لأغراض تجارية دون موافقتنا الكتابية المسبقة.",
+      "3-h2": "2. الملكية",
+      "3-p": "ملكية الصور المولدة من النص على الموقع تعود إلى الشخص الذي أنشأ الصورة. لا يدعي aibesttop.com أي ملكية للصور التي ينشئها المستخدمون.",
+      "4-h2": "3. جمع بيانات المستخدم",
+      "4-p": "نقوم بجمع البيانات الشخصية (الاسم والبريد الإلكتروني ومعلومات الدفع) والبيانات غير الشخصية (ملفات تعريف الارتباط على الويب) لتحسين خدماتنا. يخضع استخدام هذه البيانات لسياسة الخصوصية الخاصة بنا، والتي يمكن العثور عليها في",
+      "terms-of-service": "شروط الخدمة",
+      "5-h2": "4. القانون الحاكم",
+      "5-p": "تخضع هذه الشروط وتُفسر وفقًا لقوانين الولايات المتحدة الأمريكية، دون اعتبار لأحكام تنازع القوانين.",
+      "6-h2": "5. التغييرات على الشروط",
+      "6-p": "يحتفظ دليل Aibesttop بالحق، وفقًا لتقديرنا الخاص، في تعديل أو استبدال هذه الشروط في أي وقت. سنخطر المستخدمين بأي تغييرات عبر البريد الإلكتروني. استمرار استخدامك للموقع بعد أي تغيير في هذه الشروط سيشكل قبولك لهذه التغييرات.",
+      "7-h2": "6. معلومات الاتصال",
+      "7-p": "إذا كانت لديك أي أسئلة حول هذه الشروط، يرجى الاتصال بنا على contact@6677.ai.",
+      "last-p": "باستخدام دليل Aibesttop، فإنك تشير إلى قبولك لشروط الخدمة هذه."
+    }
+  },
+  "NotFound": {
+    "title": "404 غير موجود",
+    "goHome": "العودة إلى الصفحة الرئيسية"
+  },
+  "Home": {
+    "title": "اكتشف أفضل أدوات الذكاء الاصطناعي 2024",
+    "subTitle": "احصل على أدوات الذكاء الاصطناعي المفضلة لديك في دليل أدوات Aibesttop مفتوح المصدر. يتم تحديث قائمة أدوات الذكاء الاصطناعي يوميًا بواسطة GPT-4o. يمكنك الإرسال مجانًا هنا لتحسين تحسين محركات البحث الخاص بك الآن.",
+    "ai-navigate": "قائمة أدوات الذكاء الاصطناعي",
+    "exploreMore": "احصل على المزيد من أدوات الذكاء الاصطناعي",
+    "checkDetail": "عرض التفاصيل",
+    "search": "بحث",
+    "result": "نتيجة البحث",
+    "empty": "لا توجد بيانات متاحة"
+  },
+  "Category": {
+    "home": "الرئيسية",
+    "empty": "لا توجد بيانات متاحة"
+  },
+  "Submit": {
+    "title": "أرسل أداة الذكاء الاصطناعي الخاصة بك",
+    "subTitle": "أرسل أداة الذكاء الاصطناعي الخاصة بك واحصل على حركة المرور من دليل Aibesttop",
+    "website": "اسم الموقع",
+    "url": "رابط الموقع",
+    "submit": "إرسال",
+    "add": "إضافة",
+    "text": "إلى الصفحة الرئيسية لموقعك، ثم يمكنك إرسال موقعك بنجاح مجانًا!",
+    "networkError": "خطأ في الشبكة",
+    "success": "نجاح"
+  },
+  "Startup": {
+    "title": "ابدأ إطلاق شركتك الناشئة",
+    "subTitle": "القائمة النهائية للمواقع لإطلاق وترويج شركتك الناشئة عبر الإنترنت. للإضافة إلى القائمة أو المساعدة في إرسال منتجك إلى القائمة المجانية، يرجى مراسلتنا عبر البريد الإلكتروني: contact@aibesttop.com.",
+    "updateTime": "يتم تنظيمها وتحديثها يوميًا. آخر تحديث:",
+    "table": {
+      "da": "DA",
+      "website": "الموقع",
+      "tags": "العلامات",
+      "price": "السعر",
+      "submission": "الإرسال"
+    },
+    "detail": {
+      "visitWebsite": "زيارة الموقع",
+      "introduction": "مقدمة"
+    }
+  },
+  "Explore": {
+    "title": "اكتشف أفضل أدوات الذكاء الاصطناعي 2024",
+    "subTitle": "احصل على أدوات الذكاء الاصطناعي المفضلة لديك في دليل أدوات Aibesttop. يتم تحديث قائمة أدوات الذكاء الاصطناعي يوميًا بواسطة GPT-4o."
+  },
+  "Metadata": {
+    "home": {
+      "title": "احصل على أفضل أدوات الذكاء الاصطناعي | دليل أدوات Aibesttop مفتوح المصدر",
+      "description": "دليل Aibesttop هو أداة توفر دليلًا مجانيًا لأدوات الذكاء الاصطناعي. احصل على أدوات الذكاء الاصطناعي المفضلة لديك مع دليل Aibesttop، يهدف دليل Aibesttop إلى جمع جميع أدوات الذكاء الاصطناعي وتوفير الأفضل للمستخدمين.",
+      "keywords": "دليل Aibesttop"
+    },
+    "ai": {
+      "titleSubfix": "دليل Aibesttop"
+    },
+    "explore": {
+      "title": "استكشاف أفضل أدوات الذكاء الاصطناعي 2024 | دليل أدوات Aibesttop مفتوح المصدر",
+      "titlePrefix": "استكشاف دليل Aibesttop",
+      "titleSuffix": "دليل Aibesttop",
+      "description": "دليل Aibesttop هو أداة توفر دليلًا مجانيًا لأدوات الذكاء الاصطناعي. احصل على أدوات الذكاء الاصطناعي المفضلة لديك مع دليل Aibesttop، يهدف دليل Aibesttop إلى جمع جميع أدوات الذكاء الاصطناعي وتوفير الأفضل للمستخدمين.",
+      "keywords": "دليل Aibesttop"
+    },
+    "submit": {
+      "title": "أرسل أداة الذكاء الاصطناعي الخاصة بك واحصل على حركة المرور | دليل Aibesttop"
+    },
+    "category": {
+      "title": "الفئة: {category}",
+      "description": "تصفح جميع العناصر في فئة {category}",
+      "keywords": "{category}، فئة، تصفح"
     }
   }
-  
+}
