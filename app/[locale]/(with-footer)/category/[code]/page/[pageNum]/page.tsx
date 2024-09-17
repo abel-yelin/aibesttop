@@ -34,7 +34,7 @@ export async function generateMetadata({ params }: { params: { code: string; pag
 
 export default async function Page({ params }: { params: { code: string; pageNum?: string; locale: string } }) {
   const supabase = createClient();
-  const t = await getTranslations('Category');
+  // const t = await getTranslations('Category');
   const currentPage = Number(params?.pageNum || 1);
 
   const fullLocale = languages.find((lang) => lang.lang === params.locale)?.code || 'en-US';
