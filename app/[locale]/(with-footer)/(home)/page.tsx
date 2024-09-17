@@ -37,8 +37,8 @@ export const revalidate = RevalidateOneHour;
 export default async function Page({ params: { locale } }: { params: { locale: string } }) {
   const supabase = createClient();
   const t = await getTranslations('Home');
-  
-  const fullLocale = languages.find(lang => lang.lang === locale)?.code || 'en-US';
+
+  const fullLocale = languages.find((lang) => lang.lang === locale)?.code || 'en-US';
 
   let { data: navigationList } = await supabase
     .from('web_navigation')
@@ -55,7 +55,7 @@ export default async function Page({ params: { locale } }: { params: { locale: s
       .eq('language', 'en-US')
       .order('collection_time', { ascending: false })
       .limit(12);
-    
+
     navigationList = englishList;
   }
 

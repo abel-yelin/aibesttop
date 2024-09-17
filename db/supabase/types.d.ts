@@ -166,11 +166,11 @@ export type Database = {
         };
         Relationships: [
           {
-            foreignKeyName: "article_contents_original_content_id_fkey"
-            columns: ["original_content_id"]
-            referencedRelation: "article_contents"
-            referencedColumns: ["id"]
-          }
+            foreignKeyName: 'article_contents_original_content_id_fkey'
+            columns: ['original_content_id']
+            referencedRelation: 'article_contents'
+            referencedColumns: ['id']
+          },
         ];
       };
     };

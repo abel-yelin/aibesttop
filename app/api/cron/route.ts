@@ -2,8 +2,9 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { createClient } from '@/db/supabase/client';
 import crawler from './crawler';
+import { SupabaseClient } from '@supabase/supabase-js';
 
-async function upsertWithRetry(supabase, table, data, retries = 3) {
+async function upsertWithRetry(supabase: SupabaseClient, table: string, data: any, retries = 3) {
   for (let i = 0; i < retries; i++) {
     try {
       const { data: result, error } = await supabase
@@ -75,8 +76,8 @@ export async function POST(req: NextRequest) {
       url: firstSubmitData.url!,
       tags: categoryList!.map((item) => item.name),
       callback_url: callbackUrl,
-      key: cronKey,
-    });
+      key: cronKey!,
+    }) as { code: number; msg: string; data: any };
 
     console.log('Crawler response:', JSON.stringify(crawlerResponse, null, 2));
 

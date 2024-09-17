@@ -35,10 +35,11 @@ export async function generateMetadata({ params }: { params: { code: string; loc
 export default async function Page({ params }: { params: { code: string; locale: string } }) {
   const supabase = createClient();
   const t = await getTranslations('Category');
-  
-  const fullLocale = languages.find(lang => lang.lang === params.locale)?.code || 'en-US';
 
-  let navigationList, count;
+  const fullLocale = languages.find((lang) => lang.lang === params.locale)?.code || 'en-US';
+
+  let navigationList; let
+    count;
   const [{ data: categoryList }, initialNavigation] = await Promise.all([
     supabase.from('navigation_category').select().eq('name', params.code),
     supabase
@@ -60,7 +61,7 @@ export default async function Page({ params }: { params: { code: string; locale:
       .eq('category_name', params.code)
       .eq('language', 'en-US')
       .range(0, InfoPageSize - 1);
-    
+
     navigationList = englishList;
     count = englishCount;
   }

@@ -18,7 +18,7 @@ export default async function ExploreList({ pageNum, locale }: { pageNum?: strin
   const end = start + WEB_PAGE_SIZE - 1;
 
   // 获取完整的语言代码
-  const fullLocale = languages.find(lang => lang.lang === locale)?.code || 'en-US';
+  const fullLocale = languages.find((lang) => lang.lang === locale)?.code || 'en-US';
 
   const [{ data: categoryList }, initialNavigation] = await Promise.all([
     supabase.from('navigation_category').select(),
@@ -31,7 +31,7 @@ export default async function ExploreList({ pageNum, locale }: { pageNum?: strin
   ]);
 
   let navigationList = initialNavigation.data;
-  let count = initialNavigation.count;
+  let { count } = initialNavigation;
 
   // 如果当前语言没有数据，获取英语数据
   if (!navigationList || navigationList.length === 0) {
@@ -41,7 +41,7 @@ export default async function ExploreList({ pageNum, locale }: { pageNum?: strin
       .eq('language', 'en-US')
       .order('collection_time', { ascending: false })
       .range(start, end);
-    
+
     navigationList = englishList;
     count = englishCount;
   }
