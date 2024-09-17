@@ -1,5 +1,5 @@
 /* eslint-disable import/prefer-default-export */
-import { NextResponse } from 'next/server';
+import { NextRequest, NextResponse } from 'next/server';
 import { createClient } from '@/db/supabase/client';
 
 // submit table empty -> stop
@@ -85,6 +85,7 @@ export async function POST(req: NextRequest) {
 
   } catch (error) {
     console.error('Error in cron callback:', error);
-    return NextResponse.json({ error: error.message }, { status: 500 });
+    const errorMessage = error instanceof Error ? error.message : 'Unknown error occurred';
+    return NextResponse.json({ error: errorMessage }, { status: 500 });
   }
 }
