@@ -33,8 +33,8 @@ export default function Footer() {
 
   const SupportLinks = [
     {
-      title: 'Flux AI Image Generator',
-      href: 'https://flux-ai.io/',
+      title: 'Allinai tools',
+      href: 'https://allinai.tools/',
     },
     {
       title: 'Photo to Video AI',
