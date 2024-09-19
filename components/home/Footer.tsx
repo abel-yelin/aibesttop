@@ -33,7 +33,7 @@ export default function Footer() {
 
   const SupportLinks = [
     {
-      title: 'Allinai tools',
+      title: 'All in AI Tool ',
       href: 'https://allinai.tools/',
     },
     {
