@@ -37,6 +37,10 @@ export default function Footer() {
       href: 'https://tap4.ai/',
     },
     {
+      title: 'PackPack',
+      href: 'https://packpack.ai/',
+    },
+    {
       title: 'Zzo AI Tools Directory',
       href: 'https://zzo.ai/',
     },
