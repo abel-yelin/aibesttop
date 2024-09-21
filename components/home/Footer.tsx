@@ -33,6 +33,14 @@ export default function Footer() {
 
   const SupportLinks = [
     {
+      title: 'code from ：tap4.ai',
+      href: 'https://tap4.ai/',
+    },
+    {
+      title: 'Zzo AI Tools Directory',
+      href: 'https://zzo.ai/',
+    },
+    {
       title: 'All in AI Tool ',
       href: 'https://allinai.tools/',
     },
