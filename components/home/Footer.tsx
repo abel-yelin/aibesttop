@@ -33,8 +33,8 @@ export default function Footer() {
 
   const SupportLinks = [
     {
-      title: 'code from ：tap4.ai',
-      href: 'https://tap4.ai/',
+      title: 'Cline AI & Cline vscode',
+      href: 'https://www.cline.blog/',
     },
     {
       title: 'PackPack',

@@ -247,3 +247,11 @@ Tattao AI Design是为纹身爱好者设计的纹身ai生成器，欢迎点击�
 ### 网站内容爬虫项目
 
 访问：: [6677-ai/aibesttop-ai-crawler](https://github.com/6677-ai/aibesttop-ai-crawler)
+
+curl -X POST "http://localhost:3000/api/cron" ^
+-H "Content-Type: application/json" ^
+-H "Authorization: Bearer 4487f197tap4ai8Zh42Ufi6mAHWGdy" ^ 
+
+curl -X POST "https://www.aibesttop.com/api/cron" ^
+-H "Content-Type: application/json" ^
+-H "Authorization: Bearer 4487f197tap4ai8Zh42Ufi6mAHWGdy" ^ 
