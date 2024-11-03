@@ -56,22 +56,7 @@ export default function Footer() {
       title: 'Flux Pro Image Generator',
       href: 'https://flux-pro.net/',
     },
-    {
-      title: t('aibesttop'),
-      href: 'https://aibesttop.com/',
-    },
-    {
-      title: t('tattoo'),
-      href: 'https://tattooai.design/',
-    },
-    {
-      title: t('MagicBox.Tools - AI Tools Directory'),
-      href: 'https://magicbox.tools/',
-    },
-    {
-      title: t('Flux Image AI'),
-      href: 'https://tap4.ai/ai/flux-ai-io',
-    },
+    
   ];
 
   const INFO_LIST = [
