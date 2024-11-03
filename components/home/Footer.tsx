@@ -69,7 +69,7 @@ export default function Footer() {
       href: 'https://magicbox.tools/',
     },
     {
-      title: 'Flux Image AI',
+      title: t('Flux Image AI'),
       href: 'https://tap4.ai/ai/flux-ai-io',
     },
   ];
