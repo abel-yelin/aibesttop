@@ -64,6 +64,11 @@ export default function Footer() {
       title: t('tattoo'),
       href: 'https://tattooai.design/',
     },
+    {
+      title: t('MagicBox.Tools - AI Tools Directory'),
+      href: 'https://magicbox.tools/',
+    },
+    <a href="https://tap4.ai/ai/flux-ai-io" title="Flux Image AI">Flux Image AI</a>
   ];
 
   const INFO_LIST = [
@@ -76,6 +81,7 @@ export default function Footer() {
       href: '/terms-of-service',
     },
   ];
+  
 
   return (
     <footer className='w-full bg-[#15141A]'>
