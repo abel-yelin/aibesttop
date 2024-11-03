@@ -64,6 +64,14 @@ export default function Footer() {
       title: t('tattoo'),
       href: 'https://tattooai.design/',
     },
+    {
+      title: 'MagicBox.Tools - AI Tools Directory',
+      href: 'https://magicbox.tools/',
+    },
+    {
+      title: 'Flux Image AI',
+      href: 'https://tap4.ai/ai/flux-ai-io',
+    },
   ];
 
   const INFO_LIST = [
