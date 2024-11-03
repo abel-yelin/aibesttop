@@ -72,6 +72,10 @@ export default function Footer() {
       title: 'Flux Image AI',
       href: 'https://tap4.ai/ai/flux-ai-io',
     },
+    {
+      title: 'Viesearch - The Human-curated Search Engine',
+      href: 'https://viesearch.com/',
+    },
   ];
 
   const INFO_LIST = [
