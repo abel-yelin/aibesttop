@@ -56,7 +56,14 @@ export default function Footer() {
       title: 'Flux Pro Image Generator',
       href: 'https://flux-pro.net/',
     },
-    
+    {
+      title: t('aibesttop'),
+      href: 'https://aibesttop.com/',
+    },
+    {
+      title: t('tattoo'),
+      href: 'https://tattooai.design/',
+    },
   ];
 
   const INFO_LIST = [
@@ -69,7 +76,6 @@ export default function Footer() {
       href: '/terms-of-service',
     },
   ];
-  
 
   return (
     <footer className='w-full bg-[#15141A]'>
