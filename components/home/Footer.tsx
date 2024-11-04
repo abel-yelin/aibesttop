@@ -76,6 +76,10 @@ export default function Footer() {
       title: 'Viesearch - The Human-curated Search Engine',
       href: 'https://viesearch.com/',
     },
+    {
+      title: 'AstroDir',
+      href: 'https://astrodir.com/',
+    },
   ];
 
   const INFO_LIST = [
