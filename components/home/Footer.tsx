@@ -80,6 +80,10 @@ export default function Footer() {
       title: 'AstroDir',
       href: 'https://astrodir.com/',
     },
+    {
+      title: 'Googlies',
+      href: 'https://www.googlies.online/',
+    },
   ];
 
   const INFO_LIST = [
